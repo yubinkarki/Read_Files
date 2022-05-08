@@ -1,5 +1,18 @@
 # Read_Files
-Read JSON and YAML file and create new text file out specific parts of the main data file.
+Read JSON and YAML file and create new text file out specific parts of the main data file. The program takes in a yaml file and creates new text file for every key specified with corresponding values.
+
+For example:  
+
+*dataset.yaml consists data structured as:*  
+
+> type: intent  
+> name: contact  
+> values:  
+> &mdash; This is value 1.  
+> &mdash; This is value 2.  
+> &mdash; This is value 3.  
+
+The program will create a new text file with name "contact.txt" which is the value of the "name" key. And the data in the file will be the data under "values" key of the yaml file.
 
 ### Steps to connect existing local project to remote repo on GitHub.  
 > `git init -b main` *(initialize inside the local project's root directory)*  
