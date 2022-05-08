@@ -14,3 +14,7 @@ Then, start making changes to the local files and add, commit and push them onto
 > `git add file` *(add modified files to track)*  
 > `git commit -m "commit message"` *(commit modified and added files)*  
 > `git push origin main` *(update remote repo with modified files)*  
+
+Checking if the local files are up-to-date with the remote files.  
+> `git remote show origin` ➜ *main pushes to main (local out of date).*  
+> `git diff --stat main origin/main` ➜ *show which files were edited in the remote repo.*
