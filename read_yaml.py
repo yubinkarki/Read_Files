@@ -25,7 +25,6 @@ def yamltotext(filename):
                 with open(f"data/Text_Files/Entity/{intent_name}.txt", mode = "w+") as entity_file:
                     entity_file.write(entity_values) 
                     
-
         return "Text files created successfully."
 
 
