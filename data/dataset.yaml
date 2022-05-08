@@ -1,0 +1,3521 @@
+# quick_facts
+---
+type: intent
+name: quick_facts
+utterances:
+ - quick facts
+ - see quick facts
+ - some facts of nepal
+ - tell me about nepal
+ - i want to know about nepal
+ - i want to come to nepal
+ - please, tell me about nepal
+ - widely known facts about nepal
+ - what are some popular tourist destinations in nepal
+ - well known facts of nepal
+ - what should i know about nepal
+ - nepal details
+ - How can u help me
+ - what you know ?
+ - What do you know
+ - quick facts of nepal
+ - about nepal
+ - what should i know about nepal
+ - insights on nepal
+ - what can you tell me about nepal
+ - i want to know more about nepal
+ - tell me more about nepal
+ - some things to know about nepal
+ - show more info on nepal
+ - details of nepal
+ - would you please tell me about nepal
+ - some things to know about nepal
+ - would you please tell me about nepal
+ - i want to travel to nepal, can you please tell me something about nepal
+ - i want to know more facts about nepal
+ - tell me something about nepal
+ - show more info on nepal
+ - nepal details
+ - facts that i need to know about nepal
+ - i want to know some facts of nepal
+ - facts that i need to know
+ - quick facts of nepal
+ - i want to know the well known facts of nepal
+ - Ok then what can you tell me ?
+ - planning to visit nepa;
+ - Tell me
+# fast_facts
+---
+type: intent 
+name: fast_facts 
+utterances:
+ - fast facts
+ - more facts
+ - tell me something more about nepal
+ - additional facts
+ - nepal more
+ - what can you help other
+ - some more things about nepal
+ - extra facts
+# places_to_see
+---
+type: intent
+name: places_to_see
+utterances:
+ - Places to see
+ - Some places to see
+ - Please suggest names of cities of tourist attraction
+ - How many places that i can visit
+ - Places to go
+ - Place to visit
+ - Tourism?
+ - Place to go
+ - What are the main tourist attractions?
+ - We are looking for local site seeing trips in Kathmandu and pokhara
+ - Places to see in kepal
+ - SO TELL ME VISITING PLACES
+ - tourists spots?
+ - Best places to visit in nepal
+ - I WANT TO VISIT BEST PLACES WITH FAMILY
+ - What are the places that i can visit in nepal
+ - Which places are worth to see in Nepal
+ - please suggest me the places in Nepal
+ - Famous travel place
+ - Where is the best and cheap place to visit nepal for couple, only for few days?
+ - I WANT TO VISIT NEPAL ON ABOUT  PLEASE ASSIST THE PLACES TO VISIT FOR 8 DAYS
+ - Place to visit in nepal
+ - tell me the famous sites of  Nepal
+ - would you suggest me the place to go in Nepal
+ - What are the best places to visit in Nepal
+ - places to visit
+ - worth visiting places
+ - which places are worth a visit
+ - what are some popular places that i can go to in nepal
+ - what can i see in nepal
+ - where can i visit in nepal
+ - about visiting places
+ - which places are recommended
+ - tourist destination
+ - famous tourist destinations
+ - where should i visit
+ - which places should i go to
+ - where can i go in nepal
+ - seeing places
+ - plz suggest me the places to visit
+ - places to see in nepal
+ - famous places to see
+ - tourist destinations of nepal
+ - where should i go in nepal
+ - what places are a must visit
+ - what should i not miss out on
+ - palces to visit
+ - visiting places
+ - popular tourist visiting places
+ - what places are there to visit in nepal
+ - what are the visiting places in nepal
+ - would you suggest me the places to visit in nepal
+ - visiting places here
+ - place to visit that is worth to come nepal
+ - please suggest me the places in nepal that is heart warming
+ - places to visit that is worth to come to nepal
+ - what are the places that should not be missed
+ - what are the places that is worth to visit in nepal
+ - please suggest me the places to roam around in nepal
+ - would you please tell me the famous places
+ - worth visiting places
+ - best places for tourist to visit here
+ - i want to know the famous places to visit in nepal
+ - what is the best place to visit
+ - About tourist places
+ - best palce on nepal
+ - whats the main attraction places to visit kathmandu
+ - main attraction in kathmandu
+ - Which are the best places to visit in Nepal
+ - What to see and how many day do I require
+ - Destination name choose visit nepal 2020
+ - Places to see in Kathmandu
+ - Places to see in Kathmandu?
+ - Planning Nepal trip for 5 days from Mumbai. Please guide me about famous places to visit, booking etc
+ - Planning Nepal trip for 5 days
+ - what are places to see in nepal
+ - romantic places
+ - place to visit
+ - And what are the places to visit
+ - Tell me good places to visit in Nepal ?
+ - I am looking forward to have a relaxing time in nepal for 2-3 days, can u suggest me few things and location
+# festivals
+---
+type: intent
+name: festivals
+utterances:
+ - What festivals are celebrated in Nepal
+ - tell me about festivals that are celebrated in Nepal
+ - Festivals
+ - holi
+ - photos of holi
+ - when is dashain?
+ - How the temples look like during Maha Shivaratri
+ - tell me about festivals and events
+ - what are the major festivals of nepal
+ - tell me the festival celebrations
+ - celebration of festivals
+ - what festivals can i see in nepal
+ - festivals to see
+ - events and festivals
+ - Events and Festivals
+ - dashain 
+ - tihar
+ - holi
+ - when is dashian celebrated
+ - which month is loshar celebrated
+ - some festivals of nepal
+ - festivals celebrated in nepal
+ - what sorts of ceremonies can i see in nepal
+ - celebrations of festivals
+ - tell me about some festivals of nepal
+ - what can i celebrate in nepal
+ - observe festivals
+ - what should i know about the festivals
+ - information on the festivals on nepal
+ - what do i need to know about the festivals celebrated in nepal
+ - what is celebrated in nepal
+ - when can i see the festivals
+ - festivals celebrated in nepal
+ - festivals of may
+ - nepal festivals
+ - at what month are the festivals celebrated
+ - festival month
+ - months of festivals
+ - festivals of nepal
+ - what are the festivals of nepal
+ - give me details on festivals of nepal
+ - about festivals
+ - festivals of Nepal
+ - would you please tell me what are celebrated in Nepal
+ - what are festivals and events celebrated
+ - Festivals and Celebrations
+ - intresting festivals that are coming
+ - i want to know the festivals that are celebrated in nepal
+ - festivals that is celebrated in nepal
+ - suggest me the time that has lots of festivals in nepal
+ - what are the festivals celebrated in nepal
+ - festival season in nepal
+ - season of celebration
+ - seasons of celebration in Nepal
+ - i want to come in the season of festivals
+ - what are the important festivals of nepal
+ - yomari punhi
+ - GAI JATRA
+ - Gai Jatra
+ - Why is there a parade of cows on Wednesday, August 19?
+ - Festival
+ - what is janai purnima
+ - Festival
+ - Best festival in nepal
+ - i want to know about the kumari tradition
+ - What is tamu lhosar
+ - Tamu losar
+ - Events
+# things_to_do
+---
+type: intent
+name: things_to_do
+utterances:
+ - what are the things that i can do in Nepal
+ - things that i can do in Nepal
+ - what can we do in nepal
+ - Want to travel..
+ - nepal tour location
+ - what can i do in nepal in 2020?
+ - things to do
+ - Things to Do in nepal
+ - places to visit in nepal in 5 days
+ - what things i can do in nepal
+ - suggest me things i need to do 
+ - some things to do
+ - what are some things that i can do in nepal
+ - must things to do
+ - what is must to do
+ - must do in nepal
+ - things which must be done
+ - what must i do in nepal
+ - what should i do when im in nepal
+ - nepal things 
+ - what can i do in nepal
+ - stuffs to do
+ - what things can be done
+ - what can i do in nepal
+ - what should i do in nepal
+ - tell me some stuffs to do in nepal
+ - stuffs to try out in nepal
+ - what can i do in nepal
+ - places to visit in nepal
+ - recommend me some things
+ - recommendations
+ - travel suggestion
+ - travel recommendation
+ - what are the things that i can do in Nepal
+ - things that i can do in Nepal
+ - things to do in Nepal 
+ - things to do
+ - Things to Do
+ - what intresting things can be done in nepal
+ - things that is done by most tourist
+ - what is best to do in here
+ - What things are there to do
+ - discover nepal
+ - what are the major attractions of Nepal
+# emergency
+---
+type: intent
+name: emergency
+utterances:
+ - harrasment whom to report
+ - harrasment where to report
+ - What do I do in case of emergency?
+ - I'm robbed whom do i contact
+ - report theft where to inform
+ - what can I do in case of an emergency
+ - I've been robbed
+ - am cheated where to contact
+ - I have been cheated by my agency
+ - report loss of goods
+ - lost my stuffs
+ - misplaced my item
+ - contact during lost of good 
+ - theft
+ - robbery
+ - harrasment
+ - how do i contact the police
+ - police contact
+ - need police help
+ - tourist police
+ - police help
+ - can i get the contact of tourist police
+ - what should i do if i encounter some problem
+ - place to contact if i have some problem
+ - where should i report in case of any difficulties
+ - tourist police
+ - need police 
+ - who should i contact incase of an emergency
+ - contact during emergency 
+ - Where can i contact in case of any emeregency
+ - what should i do if i get into problem
+ - what should i do if i get into any trouble
+ - i want to report a problem
+ - place to contact if i get into any difficulties
+ - what if i get robbed
+ - Emergency
+ - where to contact in case of any trouble
+ - tell me about police contact
+ - tell me about police in nepal
+ - police contact number
+ - police
+ - what should i do if i need police help
+ - where should i contact if i get into some problem
+ - what should i do if i face some problem
+ - place to contact while in problem
+ - where should i contact while im in hard situations
+ - place to contact in difficult situation
+ - tell me the place to contact in difficult situation
+ - what should i do in emergency case
+ - i need the help of police right now
+ - i need the the help of police
+ - where to report the problems
+ - I have been harassed by some one how to report to police ?
+# language_spoken
+---
+type: intent
+name: language_spoken
+utterances:
+ - what languages are spoken in Nepal
+ - language spoken in Nepal
+ - is english spoken 
+ - most widely spoken language in Nepal
+ - what are the languages spoken
+ - what is the national language
+ - what do nepali speak?
+ - which language is spoken in nepal
+ - what do people speak in nepal
+ - how many nepali people speak english
+ - english speaking in nepal
+ - can i speak in english
+ - will people understand english 
+ - can nepalese people understand english
+ - what do i speak in nepal
+ - what is spoken in nepal
+ - Is english understood in Nepal
+ - what language is spoken in nepal
+ - spoken languages in nepal
+ - what is the main language spoken
+ - Is english understood 
+ - what language people speak 
+ - Do nepali understand english?
+ - Does nepal have english speakers?
+ - Do nepali people understand english
+ - Is english spoken in nepal?
+ - How do I talk with nepalese people
+ - what is the rate of english speaking people
+ - Which language should I speak
+ - what language people speak 
+ - language
+ - What is the language of Nepali?
+ - languages
+# nepali_currency
+---
+type: intent
+name: nepali_currency
+utterances:
+ - Currency used in Nepal
+ - Denomination of money that is used in Nepal
+ - What is the currency used in Nepal
+ - currency
+ - what is nepali currency
+ - what currency is used in nepal
+ - about nepali money
+ - nepali money
+ - what type of money in used in nepal
+ - types of money used by nepali people
+ - categories of nepali currency
+ - nepali currency category
+ - currency information
+ - nepali currency
+ - what money used in nepal
+ - about nepali currency 
+ - Nepal currency
+# atm_in_nepal
+---
+type: intent
+name: atm_in_nepal
+utterances:
+ - Are there ATMs in Nepal
+ - do all cities have ATMs
+ - which cities have atm facility
+ - can i find atm in nepal
+ - Can I get access to ATM easily
+ - Can i get money from ATM in Nepal
+ - where can I withdraw the money 
+ - Are there atms to withdraw money 
+ - can i find atms in nepal
+ - what cards are accepted in Atm of nepal
+ - what card atm accepts
+ - what are the cards atms accept
+ - I want to withdraw money are there atm
+ - atm in nepal
+ - atm services in nepal
+ - what type of cards does the atm accept
+ - what cards are accepted by the atm
+ - about atm cards
+ - atm cards 
+ - where are the atm in nepal
+ - atm in nepal
+ - nepal atms
+ - where can i find atms in nepal
+ - atm locations
+ - atm facility
+ - where can i find atms in nepal
+ - atm nepal
+ - nepal atm service
+ - which places has atm 
+ - atm to withdraw some cash
+ - does villages have atms
+ - can i find atms in remote places
+ - are there atms in the hilly part of nepal
+ - can i find atm in the himalayas
+ - atm locations
+ - about atm location
+ - atm services in nepal
+ - do atm accept all cards 
+ - Are there ATM in remote places
+ - ATM
+# driving_licence
+---
+type: intent
+name: driving_licence
+utterances:
+ - Is my driving licence accepted in Nepal
+ - Can i drive or ride in Nepal
+ - do i need international licence to drive
+ - i have licence issued by my country will it be accepted
+ - how do i drive a vehicle in nepal
+ - what do i need to drive in nepal
+ - can i ride a bike with my local license
+ - what licence do i need to drive
+ - how can i drive private vehicle in nepal
+ - can i drive a car in nepal 
+ - do i need a licence to ride a motorcycle
+ - driving a motorbike in nepal
+ - drivers licence 
+ - can i ride a bike without a licence 
+ - is local licence okay
+ - what do i need to drive a car in nepal
+ - driving a vehicle in nepal
+ - is my country's licence valid
+ - do i need to be licensed to ride a vehicle
+ - driving a vehicle
+ - drive a bike or car
+ - how can i drive a bike 
+ - what do i need to drive 
+ - driving car
+ - driving bike
+ - driving vehicle
+ - is international licence accepted 
+ - what can i do to drive vehicle
+ - Can i drive or ride in Nepal
+ - i have international driving licence will it be accepted
+ - how can i drive a vehicle in nepal
+ - driving in nepal
+ - is my licence accepted in nepal
+ - does nepal have international licence?
+ - will my local licence be accepted
+ - is international licence accepted 
+ - driving licence
+# land_entry_points
+---
+type: intent
+name: land_entry_points
+utterances:
+ - What are the entry points to get into Nepal by Land
+ - Entry points to get into Nepal
+ - Document required for Nepal by road
+ - Road entries from india
+ - If entering by road, still passport is required
+ - I am an Indian citizen, age am I required to have passport to enter Nepal by road?
+ - entry points to get into nepal by land
+ - If we came by train than passport is required
+ - I am an Indian and will cross Nepal border by road. So do i need to inform at immigration
+ - How to get there by road way
+ - i am coming to nepal by land what are the entry points
+ - i want to know entry points via land 
+ - places to get into nepal
+ - entry point land
+ - entry points of nepal via land
+ - how can go to nepal through land
+ - land entry nepal
+ - i dont want to go by air
+ - i am looking to go by land
+ - i am not going by air
+ - not travelling by air
+ - going by land to nepal
+ - what ways can i take by land
+ - going on a road vehicle
+ - going by vehicle on road
+ - entry points of nepal by land
+ - how do i enter nepal through land
+ - where can i enter nepal by land
+ - from which points can i enter nepal by land
+ - from where can i enter nepal on land
+ - enter nepal through land 
+ - getting to nepal by land
+ - getting inside nepal by land
+ - which points are suitable for entering nepal by land
+ - land entry points
+ - entry points by land
+ - hi entry point to nepal from tibet
+ - hi entry point from overland
+ - entry point to nepal from India
+ - entry point to Nepal from china
+ - entry point to nepal from tibet
+ - entry points
+ - hi entry point to nepal
+ - entry point of Nepal
+ - entry point to nepal by land
+ - India to Nepal by road
+ - m a bike rider ,,living n delhi...how can i reach by road? nd any restrictins there ?
+ - I'm a bike rider living in delhi. How can I reach by road?
+ - I want to visit Nepal by road through India. I am an Indian citizen. I want to know which all documents I require
+ - we are planing to explore Nepal through own bike
+ - Hii how can i visit pashupatinath temple from jaipur via train
+ - What are the ways to come to kathmandu from Bihar, India?
+ - What if not by air ?
+ - bike entry
+ - Do i need a passport to enter Nepal by road
+ - how to travel nepal from india through road
+# airport_tax
+---
+type: intent
+name: airport_tax
+utterances:
+ - Do I have to pay airport-tax
+ - tax rates for airports
+ - about aiport tax
+ - does airport cut tax
+ - is there extra airport tax 
+ - do i need to pay airport tax
+ - is airport tax compulsary
+ - about airport tax
+ - do i need to pay airport tax separately?
+ - what tax is included in airport
+ - tax for airports
+ - tax for airport
+ - is tax included in airport
+ - what about airport tax
+ - is there an airport tax in Nepal
+ - tell me about airpot tax
+ - is airport tax included in ticket
+ - airport tax
+ - I want to know about airport tax
+# docs_indian
+---
+type: intent
+name: docs_indian
+utterances:
+ - what are the documents required from indians to enter Nepal
+ - Is passport reqd for Indian to visit nepal
+ - I am indian citizen,Do I need passport
+ - What are the required documents to visit nepal from india?
+ - can i visit using Aadhar card
+ - Which document is required for Indian?
+ - I am an Indian. Do I need passport to visit Nepal ?
+ - Do I need passport .I am an Indian.
+ - do indians have to pay fora tourist visa for 7 days
+ - I am a Indian. I have no passport and elections Commission card but I have aadhar card. Can I visit Nepal?
+ - what do i need to enter nepal if i'm an indian?
+ - aadhar card
+ - aadhar card
+ - i aadhar card accepted
+ - Is passport required for Indian national to visit Nepal?
+ - Do Indian Citizen need visa to enter nepal
+ - I am from India what Documents do I need to travel nepal
+ - what documents do i need if i'm an indian
+ - can we come to Nepal from India without Passport
+ - i am indian passport holder. i would like to visit with my son on july for a holiday trip
+ - What are the required documents for travel as I don't passport and voter ID card
+ - I am Indian national and want to visit Nepal 
+ - Am PR Card holder in Canada but am indian passport holder than i need visa for nepal
+ - I am an Indian national
+ - What type of document required for visiting nepal for a indian nationality child below 12 year .
+ - im an indian and i need information on the documents required to enter nepal
+ - documents i should be carrying to get to nepal from india
+ - what are the papers needed to enter nepal from india
+ - what is needed to enter nepal from india
+ - indian documents needed for nepal entry
+ - enter nepal as an indian
+ - papers required to enter nepal for an indian like me
+ - documents needed to show for entering nepal as an indian
+ - what do i need to clarify as an indian
+ - Does Indian need passport for nepal
+ - documents to show at entry point of nepal from india
+ - what are the things required for an indian
+ - i am indian want to know about what i need 
+ - what does indians need to go to nepal
+ - docs indian
+ - documents required for an indian nationality
+ - Adhaar
+ - what docs are required by indian
+ - docs required by indian person
+ - what papers do indians need
+ - as an indian how do i get to nepal
+ - what should i have to enter nepal legitimately
+ - What documents to carry while visiting Nepal by car
+ - What documents to carry while visiting Nepal by bus
+ - What documents to carry while visiting nepal
+ - hello im an indian and i need to go to nepal
+ - hi im indian i want to go nepal
+ - goodmorning what documents do i need to enter nepal from india
+ - how do i get to nepal from india
+ - what do i need to show if im an indian 
+ - indian documents to show when entering nepal
+ - what do i need to verify my entry in nepal as an indian 
+ - papers needed in the entry points of Nepal  for indians
+ - documents needed for indians
+ - what documents indian need to carry
+ - what documents indian need to visit nepal
+ - i am from india, what i need to enter nepal
+ - what documents indian need to enter nepal
+ - at entry point what documents i need to show i am a indian
+ - what documents indain need to show at border
+ - for entry to nepal what documents indian need
+ - what should i show at border  
+ - what documents indian need to present at entry point
+ - I am from india, what should i show at entry point
+ - I am from india, what should i show at entry point
+ - what are the documents  required from indians to enter Nepal
+ - papers needed in the entry points of Nepal  for indians
+ - India to Nepal require visa ?
+ - Documents to visit from india
+ - indian pass port holder require nepal visa
+ - I am Indian do I need poss Port to enter napal as tourist
+ - Adhar card will be ok
+ - Me from India and I like visit to Nepal can I need to Nepal visa required,?
+ - I am indian
+ - i am indian and i have no passport
+ - Do Indians need a passport to travel to nepal
+ - i am an indian. would i require to carry any documents for my visa to nepal
+ - Hi my self from india i want to trevel to your country what document should need
+ - I am an Indian and do I need passport to enter in Kathmandu
+ - Being an Indian, what do I need to enter nepal
+ - Im from india
+ - Do Indian citizens need passport to visit nepal
+ - From India documents required
+ - will an Aadhar card be sufficient to enter Nepal?
+ - Hi. I need to know whether one needs a visa or a passport to enter Nepal if I am an Indian citizen
+ - Aadhar allowed?
+ - Can you help me with the documents required to cross borders
+ - Is Adhar Card accepted in Nepal
+ - what about aadhar card 
+ - acceptance of aadhar card
+ - adhar card accept?
+ - is aadhar card accepted
+ - indian national
+ - is aadhar accepted
+ - is adhar card valid
+ - adhar card accepted or not   
+ - aadhar accepted
+ - Do indian nationals need visa on arrival
+ - My sister in law has an Aadhar card , plus a ration card with her first name on it in regional language. Is that applicable?
+ - is  visa on arrival for Indians ?
+ - what is the charges for Nepal visa for Indians...??what are the documents required ?
+ - Aadhar card / pan card
+ - is  visa on arrival for Indians ?
+ - what is the charges for Nepal visa for Indians...??what are the documents required ?
+ - Aadhar card / pan card
+ - election commission card is enough to vidit nepal indians
+ - What kind of ID need to visit Nepal  for indians
+ - Does it required to have Passport for Indian national to travel Nepal?
+ - I would like to go on a trip to Nepal by Train , do I need to have a passport?
+ - I am planning to visit Nepal from India..
+ - do indian citizens need a passport to enter nepal ?
+ - IS PASSPORT REQUIRED IF WE ARE INDIAN NATIONAL ?
+ - Do indian national require visa to enter nepal on business trip
+ - Indian
+ - adhaar
+ - aadhar
+ - indian national
+ - Is adhaar valid ID for an indian travelling to nepal
+ - what is the charges for Nepal visa for Indians...??what are the documents required ?
+ - Aadhar card / pan card
+ - Hi do Indians need passport to visit nepal
+ - will adhar card allowed to enter nepal
+ - will adhar allowed to enter nepal
+ - I have adhar card will that be enough to enter nepal
+ - will adhar allowed to enter nepal
+ - will adhar card sufficient to enter nepal
+ - I want to travel to nepal from indian. do i need visa ? i am indian citizen
+ - I am indian, do i need visa to visit kathamandu
+ - what is the process of getting visa to nepal for indian citizen
+ - visa for indian citizen
+ - what documents should i have to enter nepal from India
+ - I am from india, do i need visa to travel to nepal
+ - i am indian citizen what is the process to get visa to nepal
+ - I am indian citizen what documents should i take to enter nepal
+ - i have adhar card can i travel to nepal ?
+ - i am indian and i haave no passport
+ - I am an Indian citizen intend to visit Nepal to have a darshan of Pashupatinath temple.  Do i require visa
+ - is aadhar accepted
+ - As indian can i travel with aadhar card to Nepal
+ - is Adhar card is enough to visit Nepal
+ - I am an Indian traveling to Nepal, can we adhaar card
+ - I am indian traveling to India , can we use adhaar card
+ - What about child of 17 years and 10 years. What documents required.
+ - Can Indian citizen need passport to go Nepal
+ - Is indians require passport for visiting nepal
+ - What documents are required to visit Nepal for Indian national
+ - Visa for Indian national
+ - Is visa rqd for nepal entry from india
+ - Does an indian citizen require a passport while traveling to Kathmandu ?
+ - I am indian and I want to travel Nepal what documents should require
+ - Adhar card is okay for nepal if traveling with bus from India
+# indian_visa
+---
+type: intent
+name: indian_visa
+utterances:
+ - I am an Indian citizen holding Indian Passport. If I fly to Kathmandu from Qatar, Dubai or Bangkok, will I require a visa to enter Nepal?
+ - I am indian citizen adn planning to visit from Delhi to kathmandu via air
+ - I am indian
+ - Do i need a passport to fly from india to nepal
+ - I am an Indian Citizen.  Wants to visit Nepal.  What sort of entry fee I need to pay
+ - Do indian citizens need passport?
+ - how does a nepal visa costs for an indian citizen
+ - I am an indian do i need passport to travel nepal
+ - I am Indian go to Kathmandu via air if I need any immigration stamp in my passport
+ - I am Indian go to Nepal via air can I sta
+ - Is there any visa required for Indian citizen
+ - do Indian Citizen need cosa to travel to nepal
+ - visa required for indians ?
+ - We want to visit nepal in may month will passport required if come by air?
+ - I WOULD LIKE TO KNOW THAT IS THERE ANY PASSPORT REQUIRED FOR INDIAN NTIONALS TO FLY NEPAL BY AIR
+ - Indian citizen and I want to visit Nepal how can I
+ - Visa for Indians
+ - visa requred for indian pasport holders
+ - does Indian required VISA to enter Nepal
+ - Indians need Visa
+ - I'm from India
+ - do indians need visa to go to nepal
+ - indian visa details
+ - i am frm india do i need visa?
+ - indians need visa or not
+ - help i am indian what do i need 
+ - going to nepal as an indian
+ - do i need a visa if im from india
+ - Hi i am from india
+ - Imindian so I want to go Katmandu from benglore and l have only voter card can it possible to go Katmandu pls help
+ - Is passport is required to travel in flight from india to Nepal
+ - I am from india planning to visit Nepal through flight , can you please tell is passport required
+ - Is passport required to Indians on airportof Katmandu?
+ - Hi  I am from delhi need to vist pashupati nath
+ - Is passport needed for Indian National to visit Nepal?
+ - How we start from India
+ - What are the modes of transport from India to Nepal
+ - if coming from inida on flight
+ - I have a voter card can I enter by air
+ - Can indian citizen book air ticket directly to travel to nepal Kathmandu and enter to nepal
+ - I am Indian national how to get visa to nepal
+# weather
+---
+type: intent
+name: weather
+utterances:
+ - I want to know the weather of Nepal
+ - weather condition in nepal
+ - How is the weather in ghandruk today
+ - How is the whether now
+ - Explain the climate of Nepal.
+ - tell me about the weather in nepal
+ - what is the weather right now
+ - What is the current temperature in nepal
+ - i want to know about the weather in nepal
+ - what is the weather in nepal right now
+ - how hot or cold does it get in nepal
+ - Is it cold or hot right now in Nepal
+ - would you tell me the weather condition in nepal right now
+ - about the weather of nepal
+ - weather
+ - weather in nepal
+ - what is the weather of nepal
+ - how is the weather in nepal
+ - nepal's weather condition
+ - what's the weather of nepal like
+ - weather varitaions in nepal
+ - weather conditions
+ - how often does the weather change in nepal
+ - climate
+ - what is the current weather like 
+ - what is the weather like 
+ - what is the weather of nepal like
+ - nepals weather
+ - how is the weather in nepal
+ - can you tell me about current weather 
+ - weather of nepal
+ - Nepal's climate condition
+ - What is the climate
+ - what about weather
+ - and what about weather
+ - weather and conveyance
+# safety
+# type: intent
+# name: safety
+# utterances:
+# - Is it safe to travel alone
+# - how safe is Nepal to travel
+# - is it ok to travel solo
+# - safety
+# nepali_customs
+---
+type: intent
+name: nepali_customs
+utterances:
+ - What are some basic nepali customs that I should know about
+ - Traditions of Nepal that we should follow
+ - How can a person or tourist should avoid intercultural misunderstanding
+ - customs that must be followed in nepal
+ - customs
+ - People of nepal
+ - custom
+ - i want to know about local culture
+ - i want to know about local customs
+ - local culture i must pay attention to
+ - basic customs and culture 
+ - what are local customs and culture i should be aware of 
+ - local custom i should pay attention to 
+ - tell me about local culture
+ - what things should be considered to act proper in nepali society
+ - social norms
+ - how should i behave in nepal
+ - nepali behaviors in society
+ - how to act proper in nepal
+ - what are some things i need to consider to not offend nepali people
+ - nepali society norms and behaviors
+ - tell me about local customs
+ - what are local customs  i should be aware of 
+ - normal customs of nepal
+ - simple customs of nepal
+ - how to behave 
+ - behavior 
+ - act proper in nepal
+ - proper act
+ - give me the all information of culture of nepalese hospitality
+ - nepali house traditions
+# online_payment
+---
+type: intent
+name: online_payment
+utterances:
+ - Is online payment facility available in Nepal
+ - can i pay for service online
+ - how can i pay online
+ - what are the online payment services
+ - online payment
+ - pay online
+ - is there online payment in nepal
+ - how can i play online
+ - paying online for services in nepal
+ - Is there way to pay online in Nepal
+ - can i use cards while paying rather than cash
+# food_and_cuisine
+---
+type: intent
+name: food_and_cuisine
+utterances:
+ - food and cuisine
+ - what are the famous foods in nepal
+ - common foods in nepal
+ - what do people normally eat
+ - what can i get to eat in nepal
+ - dal bhat
+ - daal
+ - bhat
+ - what are the delicacies of nepal
+ - widely known nepali cuisines
+ - nepali dishes
+ - nepali meals
+ - what do i eat
+ - eating in nepal
+ - fods
+ - about nepali food
+ - nepali dishes
+ - dishes of nepal
+ - food
+ - dishes available in nepal
+ - Food & Cuisine
+ - Can i know the special foods that is found in nepal
+ - popular foods around Nepal
+ - famous foods
+ - what are the nepali cuisines that we can enjoy
+ - Popular foods in Nepal
+ - Best food in nepal ??
+ - Nepalese cuisine
+ - cuisines
+#national_language
+#---
+#type: intent
+#name: language
+#utterances:
+# - National language spoken in nepal
+# - what is the national language of nepal
+# - which language is spoken in nepali 
+# - Language
+#trek_difficulty
+---
+type: intent
+name: trek_difficulty
+utterances:
+ - how difficult are the treks
+ - Are the trek too difficult
+ - are the treks dangerous
+ - how hard is it to trek
+ - trek difficutly level
+ - are the treks too dangerous
+ - will i be able to complete my trek
+ - difficulty level of trek
+ - trekking difficulty level
+ - level of trek difficulties
+ - how difficult is trekking in nepal
+ - difficulty level of treks
+ - trek difficulty
+ - will i be able to complete trekking
+ - are treks too difficult?
+ - how hard is it to trek 
+ - Is it difficult to trek 
+#trekking_permits
+---
+type: intent
+name: trekking_permits
+utterances:
+ - Do I need trekking permit
+ - do i need a permit for trekking
+ - what kind of permit do i need for trekking
+ - tell me about trekking permits
+ - could you please tell me about trek permit
+ - how can i get a trek permit
+ - permits for trekking
+ - need to know about trek permits
+ - what are trekking permits
+ - what are trek permit
+ - about trekking permit
+ - trek permit
+ - trek permits
+ - trekking permits
+ - is a permit necessary for trekking
+ - what happens if i don't have a permit
+ - where can i get a trekking permit
+ - information on trekking permit please
+ - how can i get a permit to trek
+ - where do i get trekking permit
+ - how do i get a trekking permit
+ - trekking permit
+ - is trekking permit necessary to trek
+ - is trekking permit compulsory for trekking
+ - hi how can i get permit for everest base camp
+ - I want to know poon hill trakking permit
+ - How to take permission for ABC Trek
+ - Hello,  is it compulsory for a Nepali people to make permits for Everest base camp trek
+ - Permits
+#electricity
+---
+type: intent
+name: electricity
+utterances:
+ - is electricity accessible from everywhere in Nepal
+ - what about electricity facility in Nepal
+ - about electricity
+ - mobile charging
+ - electric sockets
+ - how many pins does a normal socket have
+ - how can i charge my devices
+ - how many volts does a socket use
+ - do i need a universal charger
+ - universal electrical plug needed 
+ - do i need to bring my own electrical plug
+ - sockets in nepal
+ - what is the voltage of electricity
+ - charging electrical devices
+ - should i bring a voltage converter
+ - electricity
+ - what is the condition of electricity in nepal
+ - what kinds of sockets are available in nepal
+ - about electrical socket
+ - will there be electricity in the himalayas
+ - what is the situation of electricity in the himalayas
+#communication
+---
+type: intent
+name: communication
+utterances:
+ - communication facility in Nepal
+ - medium to communicate while i am in Nepal
+ - how do i communicate with my friends
+ - how do i contact my friends
+ - how reliable is the mobile network
+ - how reliable is mobile communication
+ - can i trust mobile communication in nepal
+ - mobile communication
+ - can i rely on mobile communication
+ - how trustworthy is mobile communication
+ - can i depend on the communication in nepal
+ - mobile communication coverage
+ - Is internet facility strong in Nepal
+ - how strong is the internet in nepal
+ - internet coverage
+ - network coverage
+ - can i use mobile network
+ - how strong is the network in nepal
+ - does mountain areas have good connection
+ - mobile connection in hilly regions
+ - network coverage in nepal
+ - wireless connections
+ - about internet facilities
+ - how good is the internet in nepal
+ - where can i find good internet
+ - internet places
+ - places with internet coverage
+ - places with wifi 
+ - i cannot stay without internet
+ - i absolutely need an internet connection
+ - about wifi and internet
+ - good wifi locations
+ - places with good wifi and internet
+ - I need a good internet facility
+ - mobile network
+ - will mobile communication work in the himalayas
+ - Is internet facility acceseble from everywhere
+ - can i access internet while i am trekking
+ - Internet
+ - communication
+ - can i get access to internet
+# greet 
+---
+type: intent
+name: greet
+utterances:
+ - good morning how are things going
+ - Nameste
+ - helo
+ - hi morning
+ - yo what up
+ - Greetings from 
+ - Hi there
+ - Oi
+ - Namaste sir
+ - oi hoi
+ - Hello dear sir good morning
+ - Hello there
+ - hello there
+ - hieee
+ - hello
+ - hlo
+ - oh yes
+ - Hiii
+ - hello sir
+ - whats up dear
+ - Hi there
+ - Hi there.
+ - hi how are things going
+ - hi good morning how are you
+ - hello good afternoon how is it going
+ - gm
+ - gud mrning
+ - god murning
+ - goodest morning my friend
+ - good afternoon how is it going
+ - good night
+ - hi good night are you there
+ - hey good night whatsup
+ - hi greetings are you around
+ - hi good afternoon whats up
+ - hello morning how are you doing
+ - hello good morning
+ - hey morning are you around?
+ - hello greetings
+ - hi good morning are you around
+ - hello morning whats up
+ - hi good morning are you around?
+ - hello greetings how are things going
+ - good morning how are you
+ - hi greetings sup
+ - hi good day whats up
+ - hello how are you doing
+ - hello good day are you around
+ - hello good day
+ - morning how are things going
+ - good day how are things going
+ - good night are you there
+ - hey good day are you there
+ - greetings are you around?
+ - hey are you around?
+ - hi good day are you around
+ - greetings how are you doing
+ - hello morning are you around
+ - hi good afternoon how are things going
+ - hi good day how are you doing
+ - hi morning are you around
+ - hey good night
+ - morning are you around
+ - hi whatsup
+ - Hy
+ - hi how are you
+ - hi good night how are you doing
+ - hello good night are you around?
+ - good day are you around
+ - hey good night are you around?
+ - hi good day are you around?
+ - hey how are you
+ - hey good morning are you around
+ - hello good night sup
+ - Any body here
+ - Hai
+ - Heloo
+ - hi am mehul  raval from ahmedabad gujarat india
+ - What can you do for mr
+ - Whag can you do
+ - Hii
+ - Hi there
+ - Good mornig.
+ - Hy
+ - Namaste What does that mean
+ - Hii
+# bye 
+---
+type: intent
+name: bye
+utterances:
+ - goodbye 
+ - have to go goodbye
+ - heading out gtg
+ - talk to you soon
+ - bye
+ - ttyl
+ - talk to you soon bye
+ - leaving chau
+ - farewell
+ - got to go goodbye
+ - going out ttyl
+ - farewell
+ - im leaving now chao
+ - talk to you later gtg
+ - adios
+ - have to go chao
+ - ttyl
+ - leaving
+ - adios
+ - going out gtg
+ - goodbye
+ - have to go bye
+ - going out adieu
+ - im leaving now adios
+ - got to go farewell
+ - leaving ttyl
+ - have to go adieu
+ - goodbye
+ - heading out ttyl
+ - leaving bye
+ - leaving farewell
+ - see you again
+ - talk to you later
+ - I'll come back
+ - going out
+ - chao
+ - heading out farewell
+ - adios
+ - got to go adios
+ - have to go adios
+ - talk to you soon farewell
+ - talk to you later adieu
+ - talk to you soon chao
+ - thank you gtg
+ - talk to you later ttyl
+ - talk to you later chao
+ - chau
+ - got to go adieu
+ - going out chau
+ - going out goodbye
+# affirmative 
+---
+type: intent
+name: affirmative
+utterances: 
+ - yes sir its fine
+ - Okc
+ - right that is fine agreed
+ - sounds good
+ - ohh
+ - Cool
+ - All right
+ - Great
+ - it's okay
+ - Awwww
+ - yes sir that is what i want im ok with that
+ - right its fine yes
+ - agreed its fine agreed
+ - right
+ - yep that is what i want correct
+ - yes sir i want that right
+ - affirmative good sounds good
+ - yep
+ - Okay
+ - agreed that is good
+ - that is what i want yes sir
+ - im ok with that i want that yes
+ - correct i want that affirmative
+ - yes sir that is right yes
+ - Ohhhh no problem
+ - that is fine yep
+ - sounds good that is what i want sounds good
+ - yep
+ - agreed its fine sounds good
+ - im ok with that yes sir thank you
+ - i want that agreed
+ - agreed
+ - right that is good im ok with that
+ - correct its fine affirmative
+ - yes that is right yep
+ - im ok with that its fine agreed
+ - yes that is fine agreed
+ - yes sir good yes
+ - correct that is good agreed
+ - agreed yes sir thank you
+ - im ok with that
+ - im ok with that that is what i want agreed
+ - im ok with that you understood me im ok with that
+ - yes sir i want that im ok with that
+ - yes sir you understood me yep
+ - yes sir that is right im ok with that
+ - right its fine yes sir
+ - correct
+ - yes sir that is correct agreed
+ - right that is correct
+ - sounds good that is what i want yes sir
+ - yes sir affirmative
+ - yep its fine yes
+ - sounds good that is fine
+ - affirmative that is correct agreed
+ - affirmative im ok with that thanks
+ - yes sir yep
+ - correct that is right sounds good
+ - yes you understood me yes sir
+ - dont worry
+ - okay man
+ - okay
+ - No prblm
+ - done
+ - Good
+ - Good good
+ - That's great
+ - Very nice and awesome pictures is great
+# negative
+---
+type: intent
+name: negative
+utterances:
+ - don't do that
+ - that's wrong
+ - not really
+ - please no that's not correct
+ - bad
+ - that's not right its not ok
+ - incorrect please that's not correct
+ - please incorrect dont mean that
+ - plz incorrect its not correct
+ - incorrect please its not correct
+ - that's not right
+ - that's not right please it's not good
+ - 'no'
+ - nope that's wrong
+ - that's not right its not correct
+ - that's not right plz that's wrong
+ - don't do that plz that is wrong
+ - plz incorrect its not ok
+ - please don't do that
+ - no its not ok
+ - don't do that please its not correct
+ - not really that's not what i want
+ - that's not correct
+ - incorrect that's wrong
+ - pls that's not right didnt meant that
+ - that's not right dont mean that
+ - incorrect pls its not ok
+ - that's not right plz dont mean that
+ - pls no
+ - nope
+ - incorrect its not ok
+ - nope please its not ok
+ - its not correct
+ - incorrect
+ - pls that's not right
+ - plz not really dont mean that
+ - incorrect dont mean that
+ - don't do that dont mean that
+ - pls don't do that that's not what i want
+ - please that's not right that is wrong
+ - didnt meant that
+ - dont mean that
+ - its not ok
+ - no plz didnt meant that
+ - nope that's not correct
+ - pls incorrect it's not good
+ - that's not right please that's not correct
+ - plz incorrect dont mean that
+ - don't do that pls it's not good
+ - no that is wrong
+ - incorrect didnt meant that
+ - hawa kura
+# you_welcome
+---
+type: intent
+name: you_welcome
+utterances:
+ - Thanku
+ - Thanks
+ - Thank you very much for your valuable information
+ - Thank you for inform me
+ - Oky
+ - OK nooob
+ - Okk
+ - THANKS
+ - Thank you for this amazing service
+ - very nice
+ - Thank u
+ - ok..thankyou
+ - thankyou so much
+ - thankyou so much
+ - thanks
+ - thank you so much
+ - thank you very much
+ - your help was appreciated
+ - great job
+ - thanks for helping me 
+ - thnks 
+ - tx
+ - ty
+ - tq
+ - tnx
+ - thanks
+ - thank you
+ - thanls
+ - Ok thanks
+ - dhanyabaad
+ - dherai dherai dhanyabaad
+ - dhnyabad
+ - dhnybd
+ - thank you
+ - Not at all a problem thank you for your help
+ - Thank you very much this much information is enough for now some other time thank you very much
+ - Thank you for this kindness
+ - most thank you
+ - arigatou
+ - ok thanks
+ - Thank you
+ - arigatou gozaimasu
+ - ok thank you anyway!
+ - Okay thanks
+ - thankyou
+# airfare
+---
+type: intent
+name: airfare
+utterances:
+ - how much is cost to go nepal
+ - I want to know airfare to Nepal
+ - what is cost to go nepal
+ - airfare
+ - what is air fare to kathmandu
+ - hi I want to know air fare to kathmandu
+ - hi fare to kathmandu
+ - what is cost to reach nepal
+ - hi how much is flight cost to nepal
+ - hi I want to know fare to kathmandu
+ - how much does a flight to nepal cost
+ - flight fare to nepal
+ - what is the flight pricing
+ - how much does a ticket to nepal cost
+ - air fare to nepal
+ - how much does it take to get to nepal by air
+ - air ticket fare to nepal
+ - ticket cost per person
+ - air ticket price
+ - price of a flight 
+ - economical flight for nepal
+ - how much does an economical seat cost
+ - what is fare to kathmandu
+ - hi how much is fare to kathmandu
+ - hi I want to know cost to reach nepal
+ - how much is airfare to Nepal
+ - hi flight cost to nepal
+ - what is airfare cost
+ - hi how much is airfare to Nepal
+ - hi cost to go nepal
+ - hi I want to know flight cost to nepal
+ - how much is flight cost to nepal
+ - I want to know airfare cost
+ - air access to nepal
+ - hi I want to know cost to go nepal
+ - hi airfare to Nepal
+ - hi how much is cost to reach nepal
+ - what is airfare to Nepal
+ - how much is cost to reach nepal
+# best_travel_time
+---
+type: intent
+name: best_travel_time
+utterances:
+ - hi season to visit nepal
+ - Best time for visiting Nepal
+ - i want to know the tourist location in nepal which is least cold in dec end
+ - hi what is best time to visit nepal
+ - Is may good to visit nepal
+ - I WANT TO VISIT NEPAL IN NOV2020
+ - is it good to visit nepal in December end
+ - hi I want to know best time to visit nepal
+ - I WANT TRAVEL NEPAL IN MONTH OF MARCH WITH MY WIFE AND 3 YEARS OLD KID
+ - WHICH PERIOD IN A YEAR IS BEST TO VISIT NEPAL
+ - what is the best time to visit nepal
+ - best time nepal
+ - what time is the best for nepal
+ - what is the best time to travel to nepal
+ - what are the best times of nepal
+ - when should i visit nepal for the best experience
+ - when can i visit nepal for the best time
+ - hi what is season to visit nepal
+ - hi I want to know season to visit nepal
+ - hi I want to know season to visit kathmandu
+ - hi when is best time to go Nepal
+ - hi I want to know best time to go Nepal
+ - hi when is time of year to visit Nepal
+ - hi I want to know time of year to visit Nepal
+ - when is best time to visit nepal
+ - what is season to visit nepal
+ - what is season to visit kathmandu
+ - I want to know season to visit kathmandu
+ - what is best time to go Nepal
+ - when is best time to go Nepal
+ - I want to know time of year to visit Nepal
+ - hi right season to visit kathmandu
+ - hi good time of year to visit Nepal
+ - best trekking time
+ - best time to trek
+ - when should i visit to have the best trekking experience
+ - what time of year is good 
+ - hi what is best time of year to visit Nepal
+ - what is best time of year to visit Nepal
+ - Good climate to visit in Nepal
+ - Hi, I have a client wanting to do a tour of Nepal (not to include Everest). She would like to know the best months weather wise to visit
+ - what are the nest months to visit nepal weather wise 
+ - best time to visit weather wise 
+ - best time to come nepal
+ - Planing to visit end January
+ - We are 40  members. We belong to Teaching community from Hyderabad, India. We would like to visit Nepal in the month of May 2020..
+ - i would love to go dec 11
+ - And what is the best time to visit for that.
+ - When is summer
+ - I want to know that which season is best for travelling in Nepal at different places?
+ - When will snow fall happen
+ - hi need to visit nepal in month of may
+ - How is the weather in February ? will it be cold?
+ - So we are planning to visit nepal on February
+ - What types of climate are found in nepal
+ - which time is better for visit
+ - I want to know if March-April is a good time to visit Nepal - especially Pashupathinath temple
+# route_india
+---
+type: intent
+name: route_india
+utterances:
+ - hi I want to come nepal from India
+ - hi How do i come to nepal from india
+ - hi how to come from india
+ - hi From india how to come to nepal
+ - I want to come nepal from India
+ - what routes are availabe from india
+ - what is the best way to get to nepal from india
+ - how do i go to nepal from india
+ - need to go nepal via india
+ - whats the best way to visit nepal from india
+ - routes available from india to nepal
+ - visit nepal from india
+ - nepal through india
+ - what route is best for going nepal from india
+ - How do i come to nepal from india
+ - how to come from india
+ - From india how to come to nepal
+ - from India what are option to come to nepal
+ - hi what are options to come nepal from India
+ - hi ways to come to nepal from india
+ - what are options to come nepal from India
+ - ways to come to nepal from india
+ - How can I travel from India?
+# route_tibet
+--- 
+type: intent
+name: route_tibet
+utterances:
+ - hi what are options to come nepal from tibet
+ - hi ways to come to nepal from tibet
+ - hi From tibet how to come to nepal
+ - hi what about getting to nepal from tibet
+ - ways to come to nepal from tibet
+ - how can i get to nepal from tibet
+ - going to nepal by tibet
+ - how can i get to nepal from tibet
+ - tibet to nepal routes
+ - from tibet go nepal 
+ - which route to i take to get to nepal from tibet
+ - getting to nepal from tibet
+ - going to nepal from tibet
+ - tibet route to get to nepal
+ - what options do i have from tibet
+ - what are the ways to get to nepal from tibet
+ - what routes are availabe to get to nepal from tibet
+ - what are the routes from tibet
+ - From tibet how to come to nepal
+# get_to_nepal
+---
+type: intent
+name: get_to_nepal
+utterances:
+ - hi come to kathmandu
+ - hi get to kathmandu
+ - hi reach to kathmandu
+ - how i can visit nepal?
+ - how do i get to nepal
+ - from where do i get to kathmandu
+ - hi how to reach to nepal
+ - i want to get to nepal
+ - from where can i go nepal
+ - get to nepal
+ - international airport of nepal
+ - going to nepal
+ - nepal international airport
+ - reach to nepal
+ - come to kathmandu
+ - come to  Nepal
+ - get to kathmandu
+ - reach to kathmandu
+ - how to come to kathmandu
+ - how to come to Nepal
+ - how to reach to kathmandu
+ - hi how to get to nepal
+ - hi how to reach to nepal
+ - hi how to come to Nepal
+ - hi how to get to kathmandu
+ - How to go to Nepal from india
+ - We r planning to visit nepal by may end
+ - iam indian i have no passport how to visit napal
+ - plan a trek to annapurna base camp in april'2020 ? how to reach there? give me some ideas.
+# visa_necessity
+---
+type: intent
+name: visa_necessity
+utterances:
+ - hi do i need visa to enter Nepal
+ - hi i want to go nepal is visa required
+ - Can I visit Nepal without the passport and visa
+ - is there any Documents required ?
+ - If we can go to nepal with out visa and passport
+ - DO I need passport to nepal?
+ - do i  need visa
+ - Sure? Just passport and no evisa to be made prior?
+ - is visa required to enter Nepal
+ - Can I visit Nepal without passport?
+ - is visa compulsary to go to nepal
+ - is visa mandatory to enter nepal
+ - can i enter nepal without a visa
+ - visa necessity
+ - is a visa required to go to nepal
+ - do i need to have a visa to get to nepal
+ - what if i don't have a visa
+ - do i really need a visa
+ - can i go to nepal without a visa
+ - is it possible to go to nepal without any types of visa
+ - i want to go nepal is visa required
+ - hi is visa necessary to enter nepal
+ - hi is visa must to enter inside nepal
+ - is visa necessary to enter Nepal
+ - Documents required for Nepal Visit
+ - is visa must to enter inside nepal
+ - do i really need a visa 
+ - can i go to nepal without visa
+ - is passport required or not
+ - Is it Complusary to have passport
+ - i have no passport
+ - Hi i don't have passport. May i travel without it
+ - IS PAASPORT REQUIREDTO TRAVELKATHMANDU
+ - Does need Visa
+ - Should I require passport
+ - Hi I currently do not have passport, I'm planning visit to Nepal. Is passport mandatory ?
+ - do i need passport?
+ - what documents do i need to travel nepal
+ - I want to travel kathmabdu and other tourist sopts of nepal. Do i need a passprot if i want to take a flight from kathmandu to nepal?
+ - Do we need passport to visit nepal by air
+ - i don't have voterid card and passport also
+# apply_visa (requirements to make a visa)
+---
+type: intent
+name: apply_visa
+utterances:
+ - hi what documents are required for visa
+ - Process to get visa
+ - Where do I apply to get my visa?
+ - How can I apply visa to nepal
+ - hi docs required for applying visa
+ - hi what documents are needed to apply for visa
+ - hi what do i need to get my visa
+ - what papers necessary to get visa
+ - how can i apply for a visa to nepal
+ - getting a visa
+ - i want to get a visa for nepal
+ - what do i need for making a visa
+ - what are the things required to make a visa
+ - what is required to make visa
+ - documents required to make a visa 
+ - visa application requirements
+ - what do i need to fill a visa form
+ - what are the requirements for making a visa
+ - what do i need for making a visa
+ - how do i make a visa
+ - how can i make a visa
+ - what do i need to make a visa
+ - applying visa for nepal
+ - what documents for visa
+ - what documents are required for a visa
+ - what do i need for a visa
+ - what documents do i need for a visa
+ - hi papers necessary to get visa
+ - visa requirement
+ - visa requirements
+ - Requirements for making a visa
+ - hi documents are need to apply for visa
+ - hi what documents required for applying visa to nepal
+ - what document required for applying visa
+ - what documents do i need for visa
+ - documents required for visa processing
+ - documents required to apply for visa
+ - what do i need to apply visa
+ - tell me the requirements for visa application
+ - what documents do i need to apply visa
+ - docs required to process visa
+ - documents required for visa
+ - Need Passport.i am indian
+ - What documents will I need to get the visa?
+ - Should I require any documents to travel Nepal?
+ - How to get visa to nepal
+ - documents require to get visa to nepal
+ - documents require to get visa to nepal
+ - What documents should i have to get visa for nepal
+ - What documents should i have to get visa to nepal
+ - documents required to get visa for nepal
+ - how could i get visa to nepal
+ - how to get visa to nepal
+ - I am from china, where can i apply visa to neapl and what are documents required
+ - How to obtain visa?
+# tourist_visa
+---
+type: intent
+name: tourist_visa
+utterances:
+ - hi duration of tourist visa
+ - hi extend tourist visa
+ - hi I want to know tourist visa
+ - Where and what should I do to extend my Tourist Visa?
+ - hi what is cost of tourist visa
+ - hi I want to know tourist visa cost
+ - hi what is duration of tourist visa
+ - hi how much duration of tourist visa
+ - hi how much extend tourist visa
+ - how much tourist visa
+ - I want to know tourist visa
+ - how much cost of tourist visa
+ - what is tourist visa cost
+ - how much tourist visa cost
+ - what is duration of tourist visa
+ - I want to know duration of tourist visa
+ - what is extend tourist visa
+ - how much extend tourist visa
+ - how long does a tourist visa last
+ - tourist visa expration time
+ - i want to get a tourist visa 
+ - how can i get a tourist visa
+ - about tourist visa
+ - I want to know extend tourist visa
+ - tourist visa
+ - tourist visa cost
+ - duration of tourist visa
+ - extend tourist visa
+ - what do i need for tourist visa
+ - Tourist Visa
+ - hi cost of tourist visa
+ - hi what is tourist visa
+ - hi I want to know cost of tourist visa
+ - what is tourist visa
+ - I want to know cost of tourist visa
+ - cost of tourist visa
+ - Can you please tell me about requirements of Tourist visa ?
+ - i need a Tourist Visa
+# student_visa
+---
+type: intent
+name: student_visa
+utterances:
+ - hi student visa
+ - hi extend study visa
+ - hi what is student visa
+ - hi I want to know student visa
+ - hi what is cost of study visa
+ - hi I want to know cost of study visa
+ - hi what is duration of study visa
+ - hi how much duration of study visa
+ - hi I want to know extend study visa
+ - hi what is study visa
+ - hi how much study visa
+ - how much student visa
+ - how much cost of study visa
+ - I want to know cost of study visa
+ - what is study visa cost
+ - how can i get a student visa
+ - about student visa
+ - how much does a student visa cost
+ - how much study visa cost
+ - what is duration of study visa
+ - student visa
+ - cost of student visa
+ - study visa cost
+ - extend study visa
+ - study visa
+ - Student Visa
+ - hi I want to know duration of study visa
+ - hi what is extend study visa
+ - hi I want to know study visa
+ - I want to know study visa cost
+# public toilets
+---
+type: intent
+name: public_toilets
+utterances:
+ - Are there public toilets in Nepal
+ - is public toilets available 
+ - how clean is the public restrooms in nepal
+ - public restrooms
+ - public toilets
+ - are there public restrooms in the himalayas
+ - can i find public toilets in the hills
+ - sanitation of public toilets
+ - are public toilets clean
+ - toilet facility
+ - washroom 
+ - toilet
+ - public toilet
+ - public toilets condition
+ - are public restrooms clean
+ - restroom
+ - use restrooms
+ - how clean are the public restrooms
+ - public restroom sanitation condition
+ - are the public toilets clean enough
+ - about public restrooms
+ - public restroom sanitation   
+ - what is the condition of public restrooms 
+ - i want to know about public toilets 
+# doctors
+---
+type: intent
+name: doctors
+utterances:
+ - If i need to see a doctor, where can i go
+ - i need to see a doctor what  should i do 
+ - where can i find a doctor
+ - where can i find good doctors
+ - how do i get to a doctor
+ - need doctor's help
+ - doctor's aid needed
+ - i need to go to a hospital
+ - location of hospitals 
+ - hospital's location
+ - where can i find hospitals in nepal  
+ - where can i find good doctors
+ - i have to go to a hospital
+ - visiting a doctor
+ - doctor's help
+ - need to do checkup
+ - i have to see a doctor
+ - i must go to a hospital
+ - need to do a minor checkup
+ - where can i go for minor checkups
+ - doctors
+ - hospitals
+ - what can i do if i'm not feeling well
+ - need to see doctors
+ - what is the condition of hospitals 
+ - about hospitals
+ - where are most hospitals located
+ - where can i find hospitals
+ - where can i  find doctors
+ - how can i visit doctor if i got some injury
+ - i am not feeling well
+ - got some injury
+# what_to_wear
+---
+type: intent
+name: what_to_wear
+utterances:
+ - what to wear
+ - what clothes should i bring
+ - clothes to bring
+ - what to  wear
+ - How Should I dress during a trek?
+ - what attire should be worn in nepal
+ - clothes i should pack
+ - clothing condition
+ - how should i dress in nepal
+ - what kinds of clothes do i need to wear
+ - do i need thick clothes
+ - do i need light clothes
+ - what about heavy clothing
+ - what do i wear in nepal
+ - clothing apparels
+ - are summers clothes good
+ - recommend clothing type
+ - clothes
+ - what should i wear in nepal
+ - what kinds of clothes do i need in nepal
+ - what clothes will i be needing
+ - types of clothes to pack with me
+ - clothing
+ - what clothes should i bring
+ - clothes to bring
+ - What sort of clothing should I bring with me
+ - what clothes should i carry 
+ - what clothings should i bring
+ - clothes to carry
+ - What cloths should I take while travelling to nepal
+ - cloths
+ - Cloths to wear while travelling to Nepal
+ - What to Pack - Clothing for January ?
+# money_exchange
+---
+type: intent
+name: money_exchange
+utterances:
+ - Where can i exchange my money
+ - Where and how do I exchange my money into Nepalese rupee
+ - i want to exchange my dollar 
+ - where to exchange  money
+ - money exchange
+ - where can i convert money
+ - which places have money exchange 
+ - need to exchange money
+ - change my currency into nepali rupees
+ - convert money
+ - change money into nepali currency
+ - are there exchange counters 
+ - exchange money
+ - money exchange
+ - where can i exchange money in nepal
+ - tell me about money exchange
+ - i want to exchange where should i go
+ - i want to exchange what should i do 
+ - how easy is to exchange money 
+ - i want nepalese currency what should i do
+ - i want nepalese currency what can i do 
+ - i want nepalese currency where should i go
+ - can indian rupees be exchanged for nepali rupees at the border
+ - Where can I exchange my Indian currency to nepalese currency
+# non_tourist_visa
+---
+type: intent
+name: non_tourist_visa
+utterances:
+ - non tourist visa
+ - hi duration of non tourist visa
+ - hi extend non tourist visa
+ - hi I want to know non tourist visa
+ - hi what is cost of non tourist visa
+ - hi I want to know non tourist visa cost
+ - about non tourist visa
+ - how can i enter nepal without tourist visa
+ - what are the details of non tourist visa
+ - how can i get to nepal with as a non tourist
+ - non tourist entry
+ - what are the details of non tourist visa
+ - how much does a non toursit visa last
+ - what can you tell me about non tourist visa
+ - how can i apply for a non tourist visa
+ - how does the non tourist visa work in nepal
+ - hi what is duration of non tourist visa 
+ - hi how much extend non tourist visa
+ - how much non tourist visa
+ - I want to know non tourist visa
+ - how much cost of nontourist visa
+ - what is nontourist visa cost
+ - how much non tourist visa cost
+ - what is duration of non tourist visa
+ - I want to know duration of non tourist visa
+ - what is extend non tourist visa
+ - how much extend non tourist visa
+ - I want to know extend non tourist visa
+ - non tourist visa
+ - non tourist visa cost
+ - duration of non tourist visa
+ - extend non tourist visa
+ - Non-Tourist Visa
+ - nontourist visa
+# business_visa
+---
+type: intent
+name: business_visa
+utterances:
+ - hi duration of business visa
+ - hi extend business visa
+ - hi I want to know business visa
+ - hi what is cost of business visa
+ - hi I want to know business visa cost
+ - hi what is duration of business visa 
+ - hi how much extend business visa
+ - how much business visa
+ - I want to know business visa
+ - how much cost of business visa
+ - what is business visa cost
+ - how much business visa cost
+ - i would like to know about the business visa
+ - how can i get a business visa to nepal
+ - about business visa
+ - how long does a business visa last
+ - what is the price of business visa
+ - what is duration of business visa
+ - I want to know duration of business visa
+ - what is extend business visa
+ - how much extend business visa
+ - I want to know extend business visa
+ - business visa cost
+ - duration of business visa
+ - extend business visa
+ - business visa
+ - Business Visa
+# trek_destination
+---
+type: intent
+name: trek_destination
+utterances:
+ - trek destination
+ - Trek Destinations
+ - famous trekking places
+ - i need to go to everest base camp
+ - best place to go tracking
+ - where do i go for trekking
+ - Mardi himal
+ - where should i gor for treks in nepal
+ - trekking destinations
+ - trekking places in nepal
+ - trek places
+ - what are the most known places for trekking
+ - famous himalayas for trekking
+ - about trekking places in nepal
+ - famous trekking destination for tourists
+ - trekkers destination in nepal
+ - places to go trekking
+ - popular destination
+ - Popular Destinations
+ - tourist destinations for trekking
+ - tell me about the trekking spots in nepal
+ - good trekking spots
+ - trek areas in nepal
+ - recommend trekking places
+ - i am thinking of going for a trek
+ - tell me about trekking destinations
+ - where should i go for trekking
+ - about trekking sights 
+ - trek places
+ - i need to know where i can go trekking for a destination in nepal
+ - what are the major trekking places in nepal
+ - where does trekking take place
+ - which himalayas are good for trekking
+# lets_get_started
+---
+type: intent
+name: lets_get_started
+utterances:
+ - lets get started
+ - get started
+ - wanted to visit Nepal
+ - start
+ - I will  come to visit to nepal
+ - I can help you
+ - i m interested in visit nepal 
+ - See ,, I want to visit nepal
+ - Hi i need your help
+ - how about nepal
+# free_visa
+---
+type: intent
+name: free_visa
+utterances:
+ - free visa
+ - how can i apply for free visa
+ - tell me about free visa for nepal
+ - information on free visa
+ - what is a free visa
+ - about free visa
+ - free visa application
+ - where can i apply for free visa
+ - gratis visa's details
+ - information on free visa
+ - Gratis (Free) Visa
+ - gratis visa
+ - How can kids below 10 years of age get entry without passport?
+#unesco_heritage_site
+---
+type: intent 
+name: unesco_heritage_site
+utterances:
+ - UNESCO heritage sites
+ - heritage sites in nepal
+ - unesco
+ - unseco heritage
+ - UNESCO heritage sites in Nepal
+ - nepal heritage
+ - heritage of nepal
+ - what are the heritages of nepal
+ - heritage of nepal
+ - heritage sites
+ - heritage
+ - nepals heritage
+ - heritages of nepal
+ - unesco sites
+ - National heritages of nepal
+# residential_visa
+---
+type: intent
+name: residential_visa
+utterances:
+ - residential visa
+ - residental visa
+ - how can i get residential visa
+ - tell me more about residental visa
+ - what can i do to get residental visa
+ - what is residental visa
+ - about residential visa for nepal
+ - what are the details on residential visa
+ - how much does a residential visa cost
+ - what is the cost of residential visa
+ - how can i apply for residential visa
+ - duration of residental visa
+ - how long does a residential visa last
+ - how long can i stay in nepal with a residential visa
+ - apply for a residental visa
+ - residental visa application
+ - about residental visa
+ - residential visa details
+# more about food and cuisine
+---
+type: intent
+name: more_food_and_cuisine
+utterances:
+# - i want to know about more food and cuisines in Nepal
+ - more food and cuisines
+ - More about Food & Culinary
+ - tell me more about food
+# - food and cuisine in nepal
+# - culinary delicacies 
+# - culinary
+# - more food
+# - more about food and culinary
+# distant_border
+---
+type: intent
+name: distant_border
+utterances:
+ - distant border
+ - what are the borders of nepal
+ - distant borders of nepal
+ - about borders
+ - nepal borders
+ - what lies in the borders of nepal
+ - what are there at the borders of nepal
+ - nepal's borders
+ - what does the border of nepal have
+ - what can i see at the border of nepal
+ - i want to know what is at the borders on nepal
+ - what can i find at the border of nepal
+ - border of nepal
+ - distant border
+ - distant borders of nepal
+ - tell me about the borders of nepal
+ - borders
+ - what lies in the distant borders of nepal
+ - border information
+ - I just want to know how to reach pokhra from raxaul?
+ - What kind of applications do I need to get visa at kakarvitha border to enter Nepal
+# time_difference
+---
+type: intent
+name: time_difference
+utterances:
+ - time difference
+ - what is time difference in nepal
+ - about time difference
+ - time of nepal
+ - nepal time zone
+ - nepali time zone
+ - time zone
+ - difference of time in nepal
+ - time zone of nepal
+ - what time does nepal run on
+ - nepal's time
+ - nepals time zone
+ - what time zone is nepal
+ - time zone nepal
+ - nepal time
+ - time nepal
+# health_precautions
+---
+type: intent
+name: health_precautions
+utterances:
+ - What particular diseases do I have to watch out for?
+ - health precaution that should be taken in nepal
+ - what health precautions need to be taken in nepal
+ - are there any health precaution i need to take while staying in nepal
+ - what are the health precaution i need to take 
+ - health precautions
+ - health precaution
+ - health problem
+ - avoid health problems
+ - healthy tips
+ - health tips 
+ - healthy stay in nepal
+ - staying healthy in nepal
+ - health precaution nepal
+ - nepal health
+ - what should i do to remain healthy in nepal
+ - how do i maintain my health
+ - staying fit 
+ - staying fit and fine
+ - taking care of myself
+ - taking care of my health
+ - what are some health precautions to be followed in nepal
+ - stay fit and fine in nepal
+ - how can i stay healthy
+ - health in nepal
+ - maintaining health in nepal
+ - maintain health in nepal
+ - healthy visit to nepal
+ - stay healthy while in Nepal
+ - stay healthy during stay
+ - Are any special vaccinations needed to entry Nepal?
+# more_funds
+---
+type: intent
+name: more_funds
+utterances:
+ - what should I do if I want more funds
+ - what if i ran out of money
+ - what will happen if i run out of money
+ - no more money
+ - i need more funds
+ - where can i get funds
+ - if i dont have enough money where can i get some
+ - need to add more money
+ - need to withdraw cash
+ - withdraw funds
+ - take out cash 
+ - funds withdrawal
+ - i need to get more funds
+ - where can i refill funds
+ - where can i visit for more funds
+# credit_cards
+--- 
+type: intent
+name: credit_cards
+utterances:
+ - can i use credit card in nepal
+ - what credit cards are accepted in nepal
+ - can credit cards be used in nepal
+ - is visa card accepted in nepal
+ - are master card accepted 
+ - Indian debit card acceptable?
+ - Can I use my credit card?
+ - what credit cards are accepted
+ - what cards can i use in nepal
+ - credit cards
+ - credit card
+ - will my credit card be accepted
+ - can i use my credit card in nepal
+ - what credit cards can i use in nepal
+ - is american express accepted 
+ - can i use my master card
+ - is master card accepted
+ - master card
+ - is credit card accepted
+ - is my credit card accepted in Nepal   
+# returning_visitor
+# ---
+# type: intent
+# name: returning_visitor
+# utterances:
+# - returning visitor
+# - i am coming nepal again
+# - i am travelling to nepal for next time
+# nature
+---
+type: intent
+name: nature
+utterances:
+ - what are the types of nature in nepal
+ - nature
+ - about natural beauty of nepal
+ - natural beauty
+ - natural phenomenons
+ - what can nepals nature offer 
+ - what should i expect of nepal's nature
+ - nature nepal
+ - nepal nature
+ - natural beauty of nepal
+# things to avoid
+---
+type: intent
+name: things_to_avoid
+utterances:  
+ - what to avoid
+ - what should the tourist avoid
+ - what am i not supposed to do
+ - what should i not do 
+ - what should i be aware of
+ - things to avoid
+ - some things to be wary of
+ - safety measures
+ - things i should avoid to do as a traveller
+ - precaution
+ - preventive measures
+# tims_card_saarc_fee
+---
+type: intent
+name: tims_card_saarc_fee
+utterances:  
+ - for saarc countries
+ - saarc countries tims card fee
+ - how much does it take to make tims card for saarc country
+ - saarc country tims fee
+ - how much does a saarc country traveller have to pay for tims card
+ - for how much can a saarc country tourist make a tims card 
+ - what is the  fee of tims card for tourist from  SAARC country
+ - charge for TIMS card for SAARC countries traveller
+# tims_card_other_countries_fee
+---
+type: intent
+name: tims_card_other_countries_fee
+utterances:
+ - for other countries
+ - how much does it take to make a tims card for non saarc traveller
+ - other country tourist fee for tims card
+ - price of making a tims card for non saarc tourist
+ - what does a non saarc tourist have to pay for a tims card
+ - paying for a tims card as a non saarc tourist
+ - non saarc tourist cost for making tims card
+ - how much does it take to make a tims card for non saarc tourists
+ - What is the charge for tims card for other countries
+ - what is the fee of tims card for tourist from other countries
+ - tims card charge for except SAARC countries
+# tims_card_fee
+---
+type: intent
+name: tims_card_fee
+utterances:
+ - fee for tims card
+ - charge for tims card
+ - tims fee
+ - how much does a tims card cost
+ - how much does it take to make a tims card
+ - what is the price of making a tims card
+ - for how much can i make a tims card
+ - how much do i need to pay for a tims cards
+ - how much money does it cost to make a tims card
+ - for how much can i make a tims card
+ - tims card fee
+ - How much for tims card
+#tims_card_requirement
+---
+type: intent
+name: tims_card_requirement
+utterances:
+ - required documents for tims card
+ - what do i need to make a tims card
+ - tims card requirements
+ - tims requirement
+ - what do i need to have to make a tims card
+ - making a tims card
+ - what papers do i need to make a tims card
+ - i want to make a tims card
+ - how do i make a tims card
+ - what do i need for tims card
+ - what are needed to make a tims card
+ - what documents are needed for tims card
+# hamburger
+---
+type: intent
+name: hamburger
+utterances:
+ - menu
+ - home
+ - hamburger
+ - list
+ - help
+ - back
+ - all
+ - help me
+ - options
+ - main menu
+# money_exchange
+---
+type: intent
+name: money_exchange
+utterances:
+ - where can i exchange my money
+ - money exchange
+ - Where can i exchange my money
+ - Where and how do I exchange my money into Nepalese rupee
+ - i want to exchange my dollar 
+ - where to exchange  money
+ - are there exchange counters 
+ - i want to exchange where should i go
+ - i want to exchange what should i do 
+ - how easy is to exchange money 
+ - i want nepalese currency what should i do
+ - i want nepalese currency what can i do 
+ - i want nepalese currency where should i go
+# tims_card
+---
+type: intent
+name: tims_card
+utterances:
+ - tims card
+ - Where to apply TIMS card Pokhara?
+ - tims
+ - Where i became the TIMS Certificate? In Kathmandu? Or is it possible to organize the Certificate online?
+ - Hello,do you have a TIMS form to download?
+ - Should Nepalese citizen also pay for TIMS and ACAP charges?
+ - please let me know more about tims card
+ - what is tims card
+ - do i really need a tims card for trekking
+ - where can i get a tims card
+ - Hi , where should I buy TIMS and permits ? I would like to go on the trek 
+ - how do i get a tims card
+ - is tims card mandatory
+ - can i go trekking without a tims card
+ - can i collect tims card from NTB regional office on 25th december
+ - what does tims card do
+ - what are tims card for
+ - why do i need a tims card
+ - what are tims card for
+ - trekkers information management system 
+ - tell me about tims card
+ - about tims card
+ - what do you know about tims card
+ - what should i know about tims card
+ - is TIMS card compulsory
+ - i want to know about tims card
+ - Tim's permit collection
+ - Do I need TIMS card langtang
+ - Where do I buy Tim's card for langtang
+ - Is TIMS necessary for Langtang valley trek?
+ - Contact tims
+# tims_apply
+---
+type: intent
+name: tims_apply
+utterances:
+ - how to apply
+ - apply tims
+ - tims apply
+ - Where to get TIMS
+ - apply for a tims card
+ - how do i apply for a tims card
+# top_treks
+---
+type: intent
+name: top_treks
+utterances:
+ - top treks
+ - best trekking places
+ - about popular trekking areas
+ - where should i trek for the best experience
+ - which places should i not miss out on for the best trekking experience
+ - where should i go for the best treks
+ - nepals top treks
+ - best trek info
+ - top trekking place
+ - is it possible to do the Everest base camp in 10 days
+ - I wish to  have a glimpse  of Mount Everest
+ - from where we can see Mt. Everest.
+ - is it possible to do the Everest base camp in 10 days
+ - EBC, how long do we need
+ - How to see Everest
+# trekking_permits
+---
+type: intent
+name: trekking_permits
+utterances:
+ - Do nepalis need trekking permits
+ - Trekking Permits
+ - do i need any permit to trek
+ - do i need any permits for trekking
+ - is a permit compulsary for trekking
+ - where can i get a permit to trek
+ - how do i get a trekking permit
+ - permit trek
+ - trekking permission
+ - booking and permits
+ - Bookings and permit
+ - book and permit
+ - who issues the trekking permits
+ - what should i do for trekking permit
+ - Do I need trekking permit
+ - Hi how does it permits cost for upper Mustang
+ - is trekking permit compulsory for trekking
+ - is trekking permit necessary to trek
+ - Annapurna Circuit trek required permits
+# health and safety
+---
+type: intent
+name: health_safety
+utterances:
+ - health tips while trekking
+ - health and safety
+ - health precautions while trekking 
+# everest_temperature
+---
+type: intent
+name: everest_temperature
+utterances:
+ - What is the climatic condition in everest
+ - How is Weather at Everest like
+ - current weather condition of everest
+ - what is the temperature of mount everest right now
+ - everest temperature
+ - sagarmatha weather
+ - what is the climate of everest like
+ - about the weather in everest
+ - mount everest weather
+ - temperature of mount everest
+ - everest weather
+ - sagarmatha condition of weather
+ - everests situation in weather
+ - climatic condition in sagarmatha
+ - weather of mount everest
+ - how is weather in Everest
+# kanchanganga_temperature
+---
+type: intent
+name: kanchanjunga_temperature
+utterances:
+ - What is the climatic condition in kanchanjunga
+ - kanchanjunga temperature
+ - kanchanjunga weather right now
+ - how is the weather is kanchanjunga
+ - kanchanjunga mountain climate
+ - what is the climate of kanchanjunga like
+ - about kanchanjungas weather condition
+ - what is the temperature in kanchanjunga 
+ - how cold is it in kanchanjunga
+ - kanchanjunga climate
+ - kanchanjunga weather
+ - climatic condition in kanchanjunga
+ - weather of mount kanchanjunga
+ - temperature of kanchanjunga
+# annapurna_temperature
+---
+type: intent
+name: annapurna_temperature
+utterances:
+ - What is the climatic condition in annapurna
+ - annapurna temperature
+ - climatic condition in annapurna
+ - weather of mount annapurna
+ - temperature of annapurna mountain
+ - What is the climatic condition in annapurna himal
+ - annapurna temperature
+ - annapurna weather right now
+ - how is the weather is annapurna
+ - annapurna mountain climate
+ - what is the climate of annapurna like
+ - about annapurna weather condition
+ - what is the temperature in annapurna 
+ - how cold is it in annapurna
+ - annapurna climate
+ - annapurna weather
+ - i want to know about the temperature in annapurna
+ - climatic condition in annapurna
+ - weather of mount annapurna
+ - temperature of annapurna
+# manaslu_temperature
+---
+type: intent
+name: manaslu_temperature
+utterances:
+ - What is the climatic condition in manaslu
+ - manaslu temperature
+ - climatic condition in manaslu
+ - weather of mount manaslu
+ - temperature of manaslu
+ - What is the climatic condition in manaslu himal
+ - manaslu temperature
+ - manaslu weather right now
+ - how is the weather is manaslu
+ - manaslu mountain climate
+ - what is the climate of manaslu like
+ - about manaslu weather condition
+ - what is the temperature in manaslu 
+ - how cold is it in manaslu
+ - manaslu climate
+ - manaslu weather
+ - i want to know about the temperature in manaslu
+ - climatic condition in manaslu
+ - weather of mount manaslu
+ - temperature of manaslu
+# pokhara_temperature
+---
+type: intent
+name: pokhara_temperature
+utterances:
+ - What is the climatic condition in pokhara
+ - pokhara temperature
+ - climatic condition in pokhara
+ - weather of pokhara
+ - temperatur of pokhara
+ - What is the climatic condition in pokhara
+ - pokhara temperature
+ - pokhara weather right now
+ - how is the weather is pokhara
+ - pokhara valley climate
+ - what is the climate of pokhara like
+ - about pokhara weather condition
+ - what is the temperature in pokhara 
+ - how cold is it in pokhara
+ - pokhara climate
+ - pokhara weather
+ - i want to know about the temperature in pokhara
+ - climatic condition in pokhara
+ - weather of pokhara valley
+ - temperature of pokhara
+# kathmandu_temperature
+---
+type: intent
+name: kathmandu_temperature
+utterances:
+ - What is the weather condition in kathmandu
+ - kathmandu temperature
+ - How is the weather today in Kathmandu
+ - condition of weather in kathmandu
+ - weather of kathmandu
+ - what type of weather is kathmandu experiencing
+ - temperature of kathmandu
+ - hows the weather in kathmandu right now
+ - what is the temperature of kathmandu now
+ - current weather of kathmandu
+ - live temperature kathmandu
+ - real time weather details of kathmandu
+ - kathmandus weather
+ - what is it like in kathmandu right now
+ - about weather in kathmandu
+ - weather info on kathmandu
+ - i want to know what the weather of kathmandu is
+ - know about kathmandus weather
+ - i want to know about the weather in kathmandu
+ - tell me about kathmandus weather
+ - i want to know about kathmandus temperature 
+ - what can you tell me about the weather in kathmandu
+ - How is the weather in Kathmandu today ?
+# ght_trailer
+---
+type: intent
+name: ght_trailer
+utterances:
+ - GHT trailer
+ - ght trailers
+ - trailer for ght
+ - great himalaya trails 
+# mountaineering
+---
+type: intent
+name: mountaineering
+utterances:
+ - please advice for mountaineering
+ - Mountaineering
+ - mountaineering nepal
+ - i want to go mountaineering
+ - mountain flight
+ - what do i need to do for mountaineering in nepal
+ - about mountaineering
+# treks
+---
+type: intent
+name: treks
+utterances:
+ - i want to start trekking as soon as possible
+ - where do i go when i want to trek
+ - where should i start my trekking journey
+ - treking
+ - Tracking
+ - treks
+ - Can you take a helicopter up to Everest base camp?
+ - how do i start my trek
+ - i really want to trek fast
+ - i want to go for trekking
+ - tell me how to get started on trekking
+ - how do i get started on trekking in the himalayas
+ - starting trek
+ - trekking
+ - trekkings
+ - i want to go for trekking
+ - help me with staring trekking
+ - start my trekking journey
+ - i would love to go trekking
+ - when can i start to trek once im in nepal
+ - i want to trek
+ - where should i go if i want to trek
+ - i want to start trekking on the himalayas
+ - about trekking in nepal
+ - tell me about trekking in the himalayas
+ - treks
+ - trek
+ - trekking in the himalayas
+ - what treks can i do
+ - I need to go for a trek
+ - trekking routes
+ - trek routes
+ - i want to go for annapurna trek
+ - Where do I get the permit for the Annapurna Circuit?
+ - Then tell me about trekoing
+ - trekking for 5 days, any recommendation
+ - manaslu permit fee
+ - Upper mustang trek
+ - I'm looking in to a trip. To get a good view of mount Everest.  As not wanting to get altitude sickness. May be 3-4000 ft high. Can you get any views or do you have to go higher. Also like walking. But not a climber. Is there any accessible  walks for more easy walks . Stopping along t house. Seeing a few tourist type things. Crafts and locals. And enjoying the sights leisurely.  Can you recommend. Any tours. ? Etc
+ - abc trecking info
+ - tracking
+ - Trecking
+ - how to get to annapurna base camp
+ - How much l have topay  For Trekking and climbing
+ - Requirements to solo trek Everest base camp
+ - how can i get mount everest
+ - Everest Base Camp
+# find_treks
+---
+type: intent 
+name: find_treks
+utterances:
+ - find trek
+ - find treks
+ - show me treks
+ - i am searching for a trek
+ - i want to trek where do i look
+ - where should i look for some good treks
+ - search trek
+ - trek searching
+ - where should i go for trekking
+ - trekking places to go
+ - show me places to go for trekking
+ - places to go for trekking
+ - where are the famous places to trek
+ - i am looking for places to trek
+ - about trekking places
+ - trekking recommendations
+ - trek suggestions
+ - looking for trek
+ - looking to go on trekking
+ - looking for trekking
+ - trekking recommendations
+ - need some treks
+ - show me some treks to go to
+# spiritual_places
+---
+type: intent
+name: spiritual_places
+utterances:
+ - Spiritual Place
+ - spiritual places to visit
+ - what are some of the spiritual places to visit
+ - where are the spiritual places of nepal
+ - where can i find the spiritual places
+ - spiritual places of nepal
+ - in need entry fee of pasupatinath temple Bouddhanath stupa
+ - I want to see nepal pilimigre related map and way.
+ - Sir I want to visit butwal areas related pilimigre
+ - When is khichadi offered in pashupatinath temple
+ - Shiva
+# other_adventures
+---
+type: intent
+name: other_adventures
+utterances:
+ - other adventures
+ - other adventure
+ - other adventure activities
+ - need more adventures
+ - more adventures
+ - show more adventures
+ - about more adventures
+# let_me_explore_more
+---
+type: intent
+name: let_me_explore_more
+utterances:
+ - explore more
+ - to know more
+ - exploring places
+ - more
+ - i want to explore more about nepal
+ - let me explore more
+# first_time_traveller
+---
+type: intent
+name: first_time_traveller
+utterances:
+ - first time traveller
+ - i am travelling for the first time
+ - this is my first time in nepal
+ - first time going to nepal
+ - first visit to nepal
+ - i want to visit nepal
+ - nepals first visit
+ - going to nepal as a tourist for the first time
+ - first time travelling to nepal
+ - my first journey to nepal
+ - first time going to nepal
+ - i am coming to nepal for the very beginning 
+ - I want to visit neapal
+# cultural_traveller
+---
+type: intent
+name: cultural_traveller
+utterances:
+ - i am a person who loves to observe cultural things
+ - i want to explore the culture of nepal
+ - cultural traveller
+ - culture
+ - What cultural aspects of Nepal would motivate me to visit Nepal
+ - cultural places of nepal
+ - various cultures of nepal
+ - places with rich culture
+ - rich culture destinations
+ - where can i find places with deep culture
+ - places with major cultural influence
+ - cultural activities
+# leisure_traveller
+---
+type: intent
+name: leisure_traveller
+utterances:
+ - i am a leisure traveller
+ - things to do in my leisure time
+ - leisure activity
+ - leisur activitis
+ - leisure time activities
+ - what are some things i can do in my free time 
+ - what can i do in my free time
+ - if i have any free time what should i do
+ - things to do to enjoy in nepal
+ - free time activities
+ - enjoying free time 
+ - leisure
+ - leisure moments 
+ - leisure activities
+# village_tour
+---
+type: intent
+name: village_tour
+utterances:
+ - village tour
+ - some villages i can see in nepal
+ - which villages can i see
+ - villages to walk around
+ - can i travel around a village
+ - where can i find villages to roam
+ - roaming in villages
+ - about nepali villages
+ - know more about a village in nepal
+ - tell me about the villages in nepal
+ - visiting villages in nepal
+ - where can i visit different villages in nepal
+ - what villages will welcome me
+ - what kinds of villages can i find 
+ - where are the villages located
+ - where can i find a nepali village
+ - what is a nepali village like?
+ - how friendly is a nepali village
+ - some villages to see 
+# jungle_safari
+---
+type: intent
+name: jungle_safari
+utterances: 
+ - jungle safari
+ - jungles of nepal
+ - national parks of nepal
+ - where are the national parks
+ - some national parks of nepal
+ - national parks and reserves
+ - where can i see wild habitats on nepal
+ - where can i see the birds and animals in nepal
+ - tell me about the national parks in nepal
+ - where are the national reseves located
+ - national reserves in nepal
+ - where can i find jungles in nepal
+ - jungle safari in nepal
+ - where can i go for a jungle safari
+ - which areas provide jungle safari?
+ - is it safe for jungle safari
+ - what animals can i see durin a jungle safari?
+ - wild habitats of jungle
+# yoga_and_meditation
+---
+type: intent
+name: yoga_and_meditation
+utterances:
+ - yoga and meditation
+ - yoga places in nepal
+ - meditation in nepal
+ - where can i meditate
+ - meditation sites in nepal
+ - need to do yoga
+ - where can i perform some yoga
+ - yoga and meditation activities in nepal
+ - yoga in nepal
+ - yoga 
+ - meditation
+ - where can i do yoga
+ - meditation in nepal
+ - rejuvenate mind and body
+ - yoga places
+# adventure_traveller
+---
+type: intent
+name: adventure_traveller
+utterances:
+ - adventural traveller
+ - Tell me about the adventurous things that I could do in Nepal.
+ - adventures
+ - Best travel for see in mukthi nath from cehhani
+ - i am a active traveller
+ - i am looking for some adventure
+ - what are my adventure options
+ - Adventure in nepal
+ - i am an adventurer
+ - give me some challenges
+ - adventural journey
+ - adventure
+ - looking for adventures in nepal
+ - what are some adventourous things to do
+ - i am seeking adventure
+ - what are my options for some adventure in nepal
+ - what can i do for some adventure
+ - adventure activities 
+ - about adventures in nepal
+ - popular nepali adventures 
+ - adventures in nepal
+ - show me some adventural feats
+ - i am a adventural person
+ - Adventure activities
+ - exciting activities
+# mountain_biking
+---
+type: intent
+name: mountain_biking
+utterances:
+ - mountain biking
+ - is there mountain biking in nepal
+ - where can i go for mountain biking
+ - which places has mountain biking
+ - mountain biking services
+ - biking on the mountains
+ - biking on hills
+ - hill biking
+ - about mountain biking
+ - which places is safe for mountain biking
+ - which places is known for mountain biking
+# canoying
+---
+type: intent
+name: canyoning
+utterances:
+ - canyoning
+ - what places offer canoying services
+ - canyon nepal
+ - canyon
+ - what is a canyon
+ - is canyoning fun
+ - canyoning activity
+ - what are some popular canyoning sites
+ - canyons of nepal
+ - what are some of the popular canyons in nepal
+ - which places offer canyoning 
+ - canyoning in nepal
+ - where can i do canyoning in nepal
+ - tell me about canyoning
+ - about canyoning
+ - which places are good for canyoning
+# rafting_kayaking
+---
+type: intent
+name: rafting_kayaking
+utterances:
+ - rafting and kayaking
+ - rafting
+ - kayaking
+ - i want to go rafting
+ - where can i go for rafting
+ - some good rafting sites
+ - places to go rafting
+ - where can i raft in nepal
+ - which rivers are suitable for rafting
+ - kayak
+ - where do i kayak
+ - i want to go for kayaking
+ - boating and kayaking
+ - Boating & Kayaking
+ - boating
+ - kayaking places in nepal
+ - famous kayaking destinations
+ - popular kayaking sites
+ - popular rafting areas
+ - rafting in nepal
+ - raft
+ - rafting suggestions
+ - kayaking suggestions
+ - good places for rafting
+# bungee_jumping
+---
+type: intent
+name: bungee_jumping
+utterances: 
+ - bungee jumping
+ - bungee
+ - bungee jumping places
+ - where can i go to bungee jump
+ - places to do bungee jumping
+ - bungee jumping sites
+ - about bungee jumping in nepal
+ - tell me where i can bungee jump
+ - i want to bungee jump
+ - want to fo for bungee jumping
+ - which places have bungee jumping
+ - i want to go for bungee jumping
+ - about bungee jumping
+# paragliding
+---
+type: intent
+name: paragliding
+utterances:
+ - paragliding
+ - Can i know the cost for paragliding
+ - paragliding sites in nepal
+ - where can i paraglide
+ - tell me about some paragliding places in nepal
+ - which places has paragliding
+ - paragliding services in nepal
+ - need to paraglide
+ - which places have paragliding facility
+ - paragliding and recording videos
+ - i want to go paragliding
+ - i need to go paragliding
+# sky_diving
+---
+type: intent
+name: sky_diving
+utterances:
+ - sky diving
+ - how much does a skydive take
+ - where can i sky dive
+ - where to go for sky diving
+ - I WOULD LIKE TO DO SKY DIVING IN NEPAL
+ - where is sky diving available in nepal
+ - places that have sky diving
+ - places to fo for sky diving
+ - will i die if i skydive?
+ - what are skydiving principles
+ - skydive 
+ - places to go skydiving
+ - is there skydiving in kathmandu
+ - is there skydiving in pokhara
+ - i want to go skydiving in nepal
+ - what is the price for skydiving
+ - rate of sky diving
+ - what does it cost to skydive in nepal
+ - try skydiving
+ - is there skydiving in nepal
+ - Skydiving, tandem cost
+ - How much is the cost for skydiving in pokhara
+ - What's the cost of skydiving for native citizens
+# zip_flying
+---
+type: intent
+name: zip_flying
+utterances:
+ - zip flying
+ - fly zip
+ - zip flying in nepal
+ - places for zip flying 
+ - zip
+ - where can i zip fly
+ - is zip flying in nepal
+ - is zip flying available in nepal
+ - zip flying in nepal
+ - places for zip flying
+ - zip flying sites in nepal
+ - where do i go for zip fly
+# welcome
+---
+type: intent
+name: welcome
+utterances:
+ - welcome
+ - welcomeTop
+ - welcome to nepal
+ - namaste
+ - namaskar
+# pay_travel_expenses
+---
+type: intent
+name: pay_travel_expenses
+utterances:
+ - how do i pay for travel expenses
+ - bring money for travel expenses
+ - Do you u accept    Credit card to pay for    Visa at a TIA.   On arrival
+ - paying expenses
+ - paying travel expneses
+ - travelling expense payment
+ - how do i pay my treavel expense?
+ - How pay travel expense
+# expenditure
+---
+type: intent
+name: expenditure
+utterances: 
+ - how much is the average daily expenses  
+ - what is daily expenses 
+ - How much should I expect to spend during my trip to Nepal?
+ - price for 6 days in nepal
+ - how much should i expect to spend during my trip
+ - i would like to know the average cost
+ - I can stay one week how much money
+ - Costs for explore the nepal
+ - What is the cost to stay in nepal
+ - How much is the normal expenses
+ - expense in nepal
+ - how much whould I need to spend in nepal
+ - what would be the average expense
+ - how is the expense of nepal
+ - Cost of traveling
+ - Can I stay longer than 3 months
+ - what would be the charges for couple from India
+# inoculations
+---
+type: intent
+name: inoculations
+utterances:
+ - what inoculations are advised
+ - what inoculations are recommended  before visiting Nepal
+ - what vaccinations are advised
+ - what vaccinations should I  take
+ - are there any vaccinations i must take before my visit
+ - do i need  have any vaccinations
+ - what vaccine i should take 
+ - any vaccinations i need to take 
+ - any vaccinations recommended
+ - what vaccination i should take
+# trek_precautions
+---
+type: intent
+name: trek_precautions
+utterances:
+ - what health precautions need to be taken while trekking
+ - are there any health precaution i need to take while trekking
+ - what are the health precaution i need to take during a trek
+ - trekking precautions
+ - trek precaution
+ - avoid health problems in a trek
+ - how can i be careful during a trek
+ - taking care when on a trek
+ - what things should i be wary of during trek
+ - how can i be aware in a trek
+ - being careful while trekking
+ - what should i careful of when trekking
+ - stay healthy while trekking in Nepal
+ - careful trekking
+ - trek health
+ - stay well when trekking
+ - trekking health
+ - treks health
+ - maintaining health while trekking
+ - healthy trek
+ - stay healthy in a trek
+ - stay healthy during trek
+ - trek precautions
+ - precaution while trekking
+ - precaution trek
+# safety_nepal
+---
+type: intent
+name: safety_nepal
+utterances:
+ - how safe is nepal
+ - is nepal safe
+ - about nepals safety
+ - i wanna know about the safety of nepal
+ - tell me about nepals safety
+ - is it not safe in nepal
+ - is my safety guaranteed while travelling
+ - how can i be safe in nepal
+ - i don't want to get robbed
+ - i'm really scared of robbers 
+ - safety concerns
+ - concerned about my safety 
+ - should i be worried if i travel alone
+ - is travelling alone a problem
+ - i am a solo traveller
+ - safety nepal
+ - safety
+ - how safe is nepal
+ - nepal safe
+ - safe nepal
+ - is nepal safe for travellers
+ - how danger is nepal
+ - is nepal dangerous 
+ - how dangerous is nepal
+ - I am travelling alone, is there any reason to be concerned
+ - Staying safe
+ - Is it safe for a single lady visit Kathmandu?
+#travel_insurance
+---
+type: intent
+name: travel_insurance
+utterances:
+ - do i need to take travel insurace
+ - is travel insurance necessary 
+ - do i need travel insurance
+ - is travel insurance required 
+ - is travel insurance compulsory
+ - is travel insurance advised 
+ - why should i take travel insurace
+ - should i consider travel insurance
+ - what about travel insurance
+ - why do i need travel insurance
+ - should i sign up for a travel insurance
+ - is travel insurance necessary
+ - should i do any trvelling insurance
+ - i need travel insurance why 
+ - why do i need travel insurance
+#sickness
+---
+type: intent
+name: sickness
+utterances:
+ - how do i prevent mountain sickness
+ - what is altitude sickness
+ - how do i prevent altitude sickness
+ - what should i do in case of moutain sickness
+ - what to do in altitude sickness
+ - what to do in mountain sickness
+ - what to do in mountain sickness
+ - symptoms of altitude sickness
+ - what can i do to prevent altitude sickness
+ - how common is altitude sickness
+ - how is altitude sickness caused
+ - symptoms of mountain sickness
+ - how to prevent altitude sickness
+ - how to prevent mountain sickness
+ - what is mountain sickness
+ - what is Acute Mountain Sickness
+# get_to_city
+---
+type: intent
+name: get_to_city
+utterances:
+ - get to city
+ - how do i travel around after landing at the airport
+ - how do i get to the city after landing
+ - what happens after i land at the airport
+ - how do i get to the city from the airport
+ -  what are the entry points of Nepal?
+ - what are the entry points of Nepal?
+ - how do i travel around the city of kathmandu
+ - going to the city after leaving the airport
+ - from airport to the city
+ - city visit from airport
+ - what are my options of going to the city
+ - how do i leave the airport
+ - leaving the airport
+ - getting to the city
+ - visiting city area after landing
+ - how do i get to my hotel after landing
+ - what should i do after landing in kathmandu 
+ - how do i get to the towns
+ - city get
+ - going to the city
+ - get city
+ - Are taxied easily available for travel
+ - Are taxies easily available for travel in the city
+ - Transportation
+# exchange_rate
+---
+type: intent
+name: exchange_rate
+utterances:
+ - exchange rate
+ - what is the exchange rate of Nepalese currency
+ - what is the value of Nepalese currency
+ - i want to know the exchange rate of Nepalese currency
+ - how much is my currency worth against nepalese currency
+# visa (want visa + place to apply visa)
+---
+type: intent
+name: visa
+utterances:
+ - visa process
+ - visa help
+ - i want to make a visa
+ - Do you have consulate in Dubai where I  Can apply visa?
+ - i want visa
+ - i want a visa
+ - making a visa for nepal
+ - how do i get a visa
+ - visa information
+ - what are the types of visa
+ - i want to know about visa 
+ - how can i get visa
+ - visa 
+ - need to know how to go nepal
+ - nepalese visa 
+ - nepali visa
+ - where do i need to get visa
+ - how do i get a visa for nepal
+ - where can i get visa
+ - where do i apply for a visa
+ - visa location
+ - do i need to go to an embassy for visa
+ - what are the locations to apply for a visa
+ - where can i apply for a visa to nepal
+ - i need to apply for a visa where do i go
+ - applying for a visa to nepal
+ - where should i go to apply for a visa
+ - locations for visa applications
+ - what is the visa details for my country
+ - i'm from a different country
+ - tell me about the visa application process
+ - applying for a tourist visa 
+ - what types of visa are available?
+ - i am not from nepal but i need to go there
+ - i'm from japan, how do i get to nepal
+ - i'm in asia right now, need to go nepal
+ - Asian country's process for visa to nepal
+ - Get to nepal from europe
+ - Need to travel to nepal from africa
+ - need information on visa application
+ - information about visa and expiry date
+ - how to apply for visa 
+ - visa for nepal
+ - tourist visa for nepal
+ - visa to nepal
+ - what are the types of visa 
+ - how can i get visa
+ - visa 
+ - where do i need to get visa
+ - how to apply for visa 
+ - how can i get to Nepal
+ - where to apply for visa
+ - i want to know about visa
+ - how can i get to Nepal
+ - where to apply for visa
+ - how do i apply for a visa to nepal
+ - visa fee 6 days
+ - i am wanting to get Nepal visa at khatmandu airport on arrival
+ - Do we need to book visa in advance
+ - Do I need visa for Nepal
+ - can I obtain a tourist visa upon arrival at tribhuvan airport. I have a valid US passport
+ - Hello. How do i apply for visa from singapore to nepal?
+ - Do i need visa on arrival if i visit nepal only for 3 days?
+ - tourist visa for a Myanmar passport holder is available on arrival, correct?
+ - I want to use AU$ for visa entry. The cost is US15. What is the cost please?
+ - Nepal visa cost
+ - I am American I applied Indian visa it expired 07/12/2019 I am at airport I am going back to Nepal asking for Indian visa how to apply
+ - how can get my visa for singapore citizen
+ - I have a British Passport and my partner she has a Thai Passport. Who needs a Tourist Visa for a visit from the 24th December 2019 to the 26th December 2019?
+ - Visa is valid for how long?
+ - Is validity period calculated from day of arrival?
+ - What about 90 days  visa  procedures
+ - m from pakistan visit to nepal you can help
+ - how to visit visa requirement
+ - visas
+ - passport
+ - Need information on visa types
+ - do i need passport?
+ - Do Pakistan born but US citizens need visa
+ - Nepal visa cost
+ - is  visa on arrival for Indians ?
+ - im im travel from bahrain to katmandu
+ - do I need to apply visa before I travel to nepal
+ - passport
+ - what is the process to get visa to nepal for European  citizen
+ - what is the process to get visa to nepal for Chinese citizen
+ - what is the process to get visa to nepal for Indian  citizen
+ - what is the process to get visa to nepal for British citizen
+ - I am American Citizen how to get visa to nepal
+ - I am British Citizen how to get visa to nepal
+ - I am British national how to get visa to nepal
+ - i have American passport do i need visa to enter nepal
+ - I am chinese national how to get visa to nepal
+ - visa for european citizen
+ - what is the process of getting visa to nepal
+ - I am from china. what documents do i need to enter nepal
+ - what is process to get visa to neapl for American citizen ?
+ - what is process to get visa to neapl for British citizen ?
+ - what is process to get visa to neapl for indian citizen ?
+ - do i need passport?
+ - Do I need visa to visit nepal as a tourist
+ -  can the visa be bought in advance
+ - what type of a tourist visa is required
+ - I am a Canadian citizen
+ - do hong kong citizens need a visa to visit Nepal
+ - how can i get visa to nepal
+ - how much is visa fees
+ - I am pakistani National. Do i need to get visa from embassy to enter to nepal or i will get visa on arrival?
+ - How can I book a trip ?
+ - Okay I wanted to know the requirements when applying for a tourist visa
+ - how much is the tourist visa fee 
+ - If i had a visa from UAE and I am the wife of employer at dubai what need to be done for the process
+ - How much visa cost flr 10 month
+ - wanna know about visa info
+ - wnana know about visa ingo
+ - vise info
+ - vise
+ - Do I need to submit application before arriving in Nepal
+ - Do I need a visa for my 11months baby?
+ - How can I get visa to nepal
+ - need help on visa matters
+ - need help on visa
+ - i want to enquire about visa
+ - can you help me withvisa related information
+ - visa realted information
+ - visaa
+ - visaaa
+ - vissa
+ - i want to know regrading visa
+ - I am a Pakistani national and want to travel to Nepal kathmandu
+ - do Philippines need visa to enter nepal?
+ - Hi, is e-visa application available so that I can apply online.
+ - Hi I am a US CITIZEN - do I need a visa to visit Nepal?
+ - visa fee
+# sight_seeing
+---
+type: intent
+name: sight_seeing
+utterances:
+ - sightseeing
+ - Sightseeing
+ - Sight Seeing
+ - see sight
+ - sights in nepal
+ - what places are good for sight seeing
+ - where can i see some good sights
+ - beautiful sights
+ - scenery
+ - what are the famous sight seeing places
+ - what is sight seeing
+ - sight seeing in nepal
+ - where can i go to see some wonderful sights
+ - sight seeing destinations
+ - places to go for sight seeing
+ - scenery of nepal
+# sit_relax
+---
+type: intent
+name: sit_relax
+utterances:
+ - Sit Back & Relax
+ - sit back and relax
+ - sit back
+ - relax 
+ - relaxing things to do in nepal
+ - how can i relax 
+ - relaxing things to do in nepal
+ - relaxation nepal
+ - relaxing activities
+ - what should i do to relax
+ - what can i do to relax
+# backpacking
+---
+type: intent
+name: backpacking
+utterances:
+ - backpacking
+ - Backpacking
+# backpackers_to_do
+---
+type: intent
+name: backpackers_to_do
+utterances:
+ - backpackers to do
+# hiking
+---
+type: intent
+name: hiking
+utterances: 
+ - hiking
+ - hiking in nepal
+ - nepal hikes
+ - hike in nepal
+ - nepali hike
+ - i want to go for hiking
+ - want to hike
+ - go for hiking
+ - what are some good places for hiking
+ - where can i go to hike
+# historical_places
+---
+type: intent
+name: historical_places
+utterances:
+ - historical 
+ - what are the historical places of nepal
+ - where can i see nepal's rich history
+ - show me places with nepals history
+ - about history of nepal
+ - where can i see history of nepal
+ - i want to explore some history of nepal
+ - historical places of nepal
+ - historical place
+ - which places are rich in history
+ - where are places with lots of history
+ - historical places
+ - nepal's history
+ - places to see history of nepal
+ - patan durbar Square
+ - Historic
+# religious_places
+---
+type: intent
+name: religious_places
+utterances:
+ - religious
+ - Why this temple called pasupatinath
+ - Can you help me explore about pashupati
+ - I want to see the Pashupatinath Temple
+ - Hindu temples
+ - Pashupatinath Temple,
+ - temples
+ - Temples list please
+ - religious places
+ - What is the cost for farmaishi puja at pashupati nath temple?
+ - some religious places of nepal
+ - i want to explore the religion of nepal
+ - places in nepal with abundant religion
+ - religious nepali place
+ - where can i find places with lots of religion
+ - religious places of nepal
+ - religious place
+ - about religious places
+ - Can we visit pashupatinath in 14-16 of june
+ - Can a christian enter pashupatinath temple?
+ - pashupatinath
+ - We like to visit nepal and pashupatinath. Temple from Delhi in18 th feb to on wards
+ - Some important point about pashupati temple
+ - in need entry fee of pasupatinath temple Bouddhanath stupa,
+ - durbar square
+ - also pashupathinath temple
+ - Plz give me the picture of Lumbini
+ - Buddha
+ - I want to learn about traditions in Pashupatinath temple, is it possible to stay there ?
+ - Lumbini
+# museums
+---
+type: intent
+name: museums
+utterances:
+ - museums
+ - museum
+ - famous museums of nepal
+ - nepal museum
+ - about nepal's museums
+ - museum location
+ - suggest some good museums to visit
+ - where can i find museums
+ - i want to go to a museum
+ - going to a museum
+ - visiting a museum
+# speciality_museums
+---
+type: intent
+name: speciality_museums
+utterances:
+ - speciality museums
+ - Speciality Museum
+ - Speciality Museums
+# history_museums
+---
+type: intent
+name: history_museums
+utterances:
+ - history museums
+ - History Museum
+ - History Museums
+# dist_ktm_pokhara 
+---
+type: intent
+name: dist_ktm_pokhara
+utterances:
+ - what is the distance between kathmandu and pokhara
+ - ktm and pokhara distance
+ - distance of kathmandu and pokhara
+ - how far is pokhara from ktm
+ - ktm pok distance
+ - ktm pokhara dist
+ - distance between kathamandu to pokhara
+ - how long will it take to reach pokhara from ktm
+ - kathmandu to pokhara how long
