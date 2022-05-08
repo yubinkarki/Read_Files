@@ -1,0 +1,368 @@
+{
+    "bookRoom": [
+        [{
+            "type": "Text",
+            "value": "i'm looking for rooms for August"
+        }],
+        [{
+            "type": "Text",
+            "value": "i'm looking to book place to stay for October"
+        }],
+        [{
+            "type": "Text",
+            "value": "hi help me book room in month thank you"
+        }],
+        [{
+            "type": "Text",
+            "value": "plz i want to book rooms in June thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "hello plz help me book room for June"
+        }],
+        [{
+            "type": "Text",
+            "value": "i'm looking for place to stay for today"
+        }],
+        [{
+            "type": "Text",
+            "value": "plz help me book room for June"
+        }],
+        [{
+            "type": "Text",
+            "value": "hey pls i'm looking to book place to stay in October thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "rooms on tomorow"
+        }],
+        [{
+            "type": "Text",
+            "value": "hi book rooms for October thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "pls i want to book place to stay on January thank you"
+        }],
+        [{
+            "type": "Text",
+            "value": "place to stay for October"
+        }],
+        [{
+            "type": "Text",
+            "value": "i'm looking for room in October"
+        }],
+        [{
+            "type": "Text",
+            "value": "place to stay on October"
+        }],
+        [{
+            "type": "Text",
+            "value": "i'm looking to book room on today"
+        }],
+        [{
+            "type": "Text",
+            "value": "book rooms in today"
+        }],
+        [{
+            "type": "Text",
+            "value": "i'm looking to book rooms on August"
+        }],
+        [{
+            "type": "Text",
+            "value": "rooms on today"
+        }],
+        [{
+            "type": "Text",
+            "value": "room in August"
+        }],
+        [{
+            "type": "Text",
+            "value": "book place to stay in October"
+        }],
+        [{
+            "type": "Text",
+            "value": "place to stay for tomorow"
+        }],
+        [{
+            "type": "Text",
+            "value": "room for tomorow"
+        }],
+        [{
+            "type": "Text",
+            "value": "please i'm looking for room in January thank you"
+        }],
+        [{
+            "type": "Text",
+            "value": "hi rooms for today thank you"
+        }],
+        [{
+            "type": "Text",
+            "value": "i want to book place to stay on month"
+        }],
+        [{
+            "type": "Text",
+            "value": "hi pls help me book place to stay for October"
+        }],
+        [{
+            "type": "Text",
+            "value": "hey plz book room on January thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "help me book place to stay on tomorow"
+        }],
+        [{
+            "type": "Text",
+            "value": "hey i'm looking for rooms for August thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "hey pls book rooms in today"
+        }]
+    ],
+    "roomAvailability": [
+        [{
+            "type": "Text",
+            "value": "place to stay on today"
+        }],
+        [{
+            "type": "Text",
+            "value": "hello is avaialble place to stay on August thank you"
+        }],
+        [{
+            "type": "Text",
+            "value": "i want to know availability place to stay on month"
+        }],
+        [{
+            "type": "Text",
+            "value": "i want to know availability rooms on tomorow"
+        }],
+        [{
+            "type": "Text",
+            "value": "i want to know availability room for month"
+        }],
+        [{
+            "type": "Text",
+            "value": "avaibility of rooms on tomorow"
+        }],
+        [{
+            "type": "Text",
+            "value": "avaibility of rooms on August"
+        }],
+        [{
+            "type": "Text",
+            "value": "pls rooms on August thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "i want to know availability room for tomorow"
+        }],
+        [{
+            "type": "Text",
+            "value": "hello avaibility of room on"
+        }],
+        [{
+            "type": "Text",
+            "value": "hey plz is avaialble rooms on"
+        }],
+        [{
+            "type": "Text",
+            "value": "room for September"
+        }],
+        [{
+            "type": "Text",
+            "value": "room on tomorow"
+        }],
+        [{
+            "type": "Text",
+            "value": "avaibility of rooms for September"
+        }],
+        [{
+            "type": "Text",
+            "value": "is avaialble place to stay on today"
+        }],
+        [{
+            "type": "Text",
+            "value": "is avaialble rooms for tomorow"
+        }],
+        [{
+            "type": "Text",
+            "value": "room for today"
+        }],
+        [{
+            "type": "Text",
+            "value": "avaibility of room for tomorow"
+        }],
+        [{
+            "type": "Text",
+            "value": "hi pls avaibility of rooms for today thank you"
+        }],
+        [{
+            "type": "Text",
+            "value": "is avaialble place to stay for August"
+        }],
+        [{
+            "type": "Text",
+            "value": "is avaialble place to stay for tomorow"
+        }],
+        [{
+            "type": "Text",
+            "value": "hey please i want to know availability room on thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "hello avaibility of room for thank you"
+        }],
+        [{
+            "type": "Text",
+            "value": "room for today thank you"
+        }],
+        [{
+            "type": "Text",
+            "value": "hi pls i want to know availability room on"
+        }],
+        [{
+            "type": "Text",
+            "value": "place to stay for today thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "please rooms on today thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "avaibility of room on August"
+        }],
+        [{
+            "type": "Text",
+            "value": "hello please avaibility of place to stay on September thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "pls is avaialble room for August thank you"
+        }]
+    ],
+    "bookHall": [
+        [{
+            "type": "Text",
+            "value": "banquets for wedding"
+        }],
+        [{
+            "type": "Text",
+            "value": "avaibility of hall on meeting"
+        }],
+        [{
+            "type": "Text",
+            "value": "hey plz book banquets for meeting thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "hello avaibility of hall for events"
+        }],
+        [{
+            "type": "Text",
+            "value": "i'm looking for hall on events"
+        }],
+        [{
+            "type": "Text",
+            "value": "book banquets for events"
+        }],
+        [{
+            "type": "Text",
+            "value": "hey pls i want to book hall on meeting thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "banquets on events"
+        }],
+        [{
+            "type": "Text",
+            "value": "hall for events"
+        }],
+        [{
+            "type": "Text",
+            "value": "hey please help me book banquets for events thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "i'm looking to book banquets for program"
+        }],
+        [{
+            "type": "Text",
+            "value": "i want to book hall on wedding"
+        }],
+        [{
+            "type": "Text",
+            "value": "hello book hall for wedding thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "avaibility of banquets on events"
+        }],
+        [{
+            "type": "Text",
+            "value": "hey please i'm looking for banquets on meeting thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "i'm looking to book hall for wedding"
+        }],
+        [{
+            "type": "Text",
+            "value": "i'm looking for hall for wedding"
+        }],
+        [{
+            "type": "Text",
+            "value": "hello please i'm looking to book banquets for wedding thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "pls book banquets on events thank you"
+        }],
+        [{
+            "type": "Text",
+            "value": "hi please i'm looking for banquets for program thank you"
+        }],
+        [{
+            "type": "Text",
+            "value": "hey pls i'm looking for hall on meeting"
+        }],
+        [{
+            "type": "Text",
+            "value": "book hall for wedding"
+        }],
+        [{
+            "type": "Text",
+            "value": "hi pls i'm looking to book banquets for events thanks"
+        }],
+        [{
+            "type": "Text",
+            "value": "help me book banquets on meeting"
+        }],
+        [{
+            "type": "Text",
+            "value": "hi please i'm looking to book banquets on events thank you"
+        }],
+        [{
+            "type": "Text",
+            "value": "i'm looking for hall on program"
+        }],
+        [{
+            "type": "Text",
+            "value": "book hall on meeting"
+        }],
+        [{
+            "type": "Text",
+            "value": "hall on program"
+        }],
+        [{
+            "type": "Text",
+            "value": "help me book banquets on events"
+        }],
+        [{
+            "type": "Text",
+            "value": "book banquets on program"
+        }]
+    ]
+}
