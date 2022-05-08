@@ -1,0 +1,133 @@
+is room available?
+room available
+any rooms available
+Can I check availability for select dates?
+are there any rooms available for tonight
+any rooms available for tomorrow
+room available for next week
+how many rooms are avaialble for booking right now
+what are my options of booking a room for this week
+show me available rooms
+Is there any room available?
+check availability of room
+Do you have any room available?
+i need a room on [availabledt](17) [availablemnth](jan) 2019
+is room available on [availabledt](17) [availablemnth](jan)
+hi plz is available place to stay for thanks
+i want to know availability place to stay for month
+place to stay on [availablemnth](jan)
+place to stay for tomorow
+avaibility of rooms for tomorow
+pls is avaialble place to stay on tomorow
+rooms on tomorow
+hey pls is avaialble room for tomorow thank you
+i want to know availability place to stay on [availabledt](17) of [availablemnth](jan)
+rooms for [availablemnth](jan)
+i want to know availability place to stay on today
+avaibility of room for month
+hi please avaibility of place to stay for tomorow thank you
+plz i want to know availability rooms for today thanks
+hi please room for today thank you
+rooms for [availablemnth](jan) thanks
+avaibility of room on month
+place to stay for today
+rooms on [availablemnth](jan)
+rooms on today
+room for [availablemnth](jan)
+hey please room on month
+hey place to stay for tomorow thank you
+place to stay for [availablemnth](jan)
+hello plz avaibility of rooms for tomorow thank you
+hey pls rooms for
+i want to know availability place to stay for [availablemnth](jan)
+hello pls is avaialble place to stay for today thanks
+avaibility of place to stay for [availablemnth](jan)
+hello plz place to stay on thank you
+please rooms for [availablemnth](jan) thanks
+room for month [availablemnth](jan)
+room for [availablemnth](jan)
+hello avaibility of rooms on [availablemnth](jan)
+hello pls rooms on month [availablemnth](jan) thank you
+room on [availablemnth](jan)
+is avaialble room for tomorow
+hello please place to stay for month thank you
+hey please avaibility of room for today thank you
+rooms for tomorow
+room on today
+rooms on month [availablemnth](jan)
+rooms on month
+plz is available place to stay for today thanks
+plz is avaialble place to stay for month thank you
+hello please i want to know availability room on [availablemnth](jan) thanks
+place to stay on [availablemnth](jan)
+is avaialble rooms on today
+i want to know availability rooms for [availablemnth](jan)
+i want to know availability room for today
+hey please avaibility of room on
+hi plz i want to know availability rooms on [availablemnth](jan)
+hi plz is avaialble place to stay for thanks
+i want to know availability place to stay for month
+place to stay on [availablemnth](jan)
+place to stay for tomorow
+avaibility of rooms for tomorow
+pls is avaialble place to stay on tomorow
+rooms on tomorow
+hey pls is avaialble room for tomorow thank you
+i want to know availability place to stay on [availablemnth](jan)
+rooms for [availablemnth](jan)
+i want to know availability of rooms to stay for the month
+please rooms on a month thanks
+availability of rooms for [availablemnth](jan)
+hi pls availability of rooms for today thank you
+is it possible to stay for today
+pls is room avaialble
+i want to know availability place to stay on today
+avaibility of room for month
+hi please availability of place to stay for tomorow thank you
+plz i want to know availability rooms for today thanks
+hi please room for today thank you
+rooms for [availablemnth](jan) thanks
+i want to know about the availability of rooms
+avaibility of room on month
+place to stay for today
+rooms for today
+any rooms available for tonight
+rooms on [availablemnth](jan)
+rooms on today
+room for [availablemnth](jan)
+hey please room on month
+hey place to stay for tomorow thank you
+place to stay for [availablemnth](jan)
+hello plz avaibility of rooms for tomorow thank you
+hey pls rooms for
+i want to know availability place to stay for [availablemnth](jan)
+hello pls is avaialble place to stay for today thanks
+avaibility of place to stay for [availablemnth](jan)
+hello plz place to stay on thank you
+please rooms for [availablemnth](jan) thanks
+room for month
+hello avaibility of rooms on [availablemnth](jan)
+hello pls rooms on month thank you
+room on [availablemnth](jan)
+is avaialble room for tomorow
+hello please place to stay for month thank you
+hey please avaibility of room for today thank you
+rooms for tomorow
+room on today
+rooms on month
+rooms on [availablemnth](jan)
+i want to book a room for [availabledt](17) of [availablemnth](jan)
+is room available on [availablemnth](jan)
+book room on [availabledt](17) of [availablemnth](jan)
+room for [availabledt](17) of [availablemnth](jan)
+need room on [availabledt](17) of [availablemnth](jan)
+book room for [availabledt](17) to [availabledt](17) of [availablemnth](jan)
+plz is avaialble place to stay for today thanks
+plz is available place to stay for month thank you
+hello please i want to know availability room on month thanks
+place to stay on [availablemnth](jan)
+is avaialble rooms on today
+i want to know availability rooms for [availablemnth](jan)
+i want to know availability room for today
+hey please avaibility of room on [availablemnth](jan)
+hi plz i want to know availability rooms on [availablemnth](jan)
