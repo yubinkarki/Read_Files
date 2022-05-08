@@ -12,6 +12,7 @@ First, updating the local repo with all the files on remote.
 
 Then, start making changes to the local files and add, commit and push them onto the remote.  
 > `git add file` *(add modified files to track)*  
+> `git add path/to/folder/.` *(add all files in the folder)*  
 > `git commit -m "commit message"` *(commit modified and added files)*  
 > `git push origin main` *(update remote repo with modified files)*  
 
