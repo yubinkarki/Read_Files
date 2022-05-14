@@ -31,4 +31,8 @@ Then, start making changes to the local files and add, commit and push them onto
 
 Checking if the local files are up-to-date with the remote files.  
 > `git remote show origin` ➜ *main pushes to main (local out of date).*  
-> `git diff --stat main origin/main` ➜ *show which files were edited in the remote repo.*
+> `git diff --stat main origin/main` ➜ *show which files were edited in the remote repo.*  
+> `git remote set-url origin https://github.com/newurl.git` ➜ *updates the remote url.*  
+
+---
+<p align="center">End of file has been reached. Thank you.</p>
