@@ -15,15 +15,16 @@ For example:
 The program will create a new text file with name "contact.txt" which is the value of the "name" key. And the data in the file will be the data under "values" key of the yaml file.
 
 ### Steps to connect existing local project to remote repo on GitHub.  
+First, initialize local repo and add remote URL.  
 > `git init -b main` *(initialize inside the local project's root directory)*  
 > `git remote add origin <GitHub repo URL>` *(adding remote repo to local project directory)*  
 > `git remote -v` *(verify the URL)*  
 > `git remote update` *(updates all of your branches set to track remote ones, but not merge any changes)*  
 
-First, updating the local repo with all the files on remote.  
+Then, updating the local repo with all the files on remote.  
 > `git pull origin main` *(git pull remote branch)*  
 
-Then, start making changes to the local files and add, commit and push them onto the remote.  
+Now, start making changes to the local files and add, commit and push them onto the remote.  
 > `git add file` *(add modified files to track)*  
 > `git add path/to/folder/.` *(add all files in the folder)*  
 > `git commit -m "commit message"` *(commit modified and added files)*  
@@ -33,6 +34,9 @@ Checking if the local files are up-to-date with the remote files.
 > `git remote show origin` ➜ *main pushes to main (local out of date).*  
 > `git diff --stat main origin/main` ➜ *show which files were edited in the remote repo.*  
 > `git remote set-url origin https://github.com/newurl.git` ➜ *updates the remote url.*  
+
+Other handy commands.  
 > `git ls-tree -r main --name-only` ➜ *show list of files currently being tracked in the branch.*  
+> `git log --follow -- filename` ➜ *show commits for a single file.*
 ---
 <p align="center">End of file has been reached. Thank you.</p>
