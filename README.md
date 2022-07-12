@@ -38,5 +38,7 @@ Checking if the local files are up-to-date with the remote files.
 Other handy commands.  
 > `git ls-tree -r main --name-only` ➜ *show list of files currently being tracked in the branch.*  
 > `git log --follow -- filename` ➜ *show commits for a single file.*
+> `git log --oneline` ➜ *show commits in a single line.*
+> `git log --oneline -3` ➜ *show recent 3 commits in a single line.*
 ---
 <p align="center">End of file has been reached. Thank you.</p>
