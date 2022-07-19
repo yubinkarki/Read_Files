@@ -42,5 +42,6 @@ Other handy commands.
 > `git log --oneline -3` ➜ *show recent 3 commits in a single line.*  
 > `git checkout -b newbranch` ➜ *create a new branch and switch to it.*  
 > `git checkout anotherbranch` ➜ *switch to anotherbranch.*  
+> `git config --get remote.origin.url` ➜ *check url of remote.*  
 ---
 <p align="center">End of file has been reached. Thank you.</p>
