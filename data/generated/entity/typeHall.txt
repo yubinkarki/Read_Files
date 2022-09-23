@@ -1,0 +1,1 @@
+[['hall', 'venue', 'venues', 'banquet', 'banquets', 'palace', 'halls', 'place', 'places', 'conference']]
