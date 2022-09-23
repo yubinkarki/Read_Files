@@ -1,0 +1,686 @@
+# eventMonth entity
+---
+type: entity
+name: eventMonth
+values:
+- ['month', 'january', 'jan', 'february', 'feb', 'march', 'april', 'may', 'june', 'july', 'august', 'aug', 'september', 'sept', 'october', 'oct', 'november', 'nov', 'december', 'dec']
+# eventDate
+---
+type: entity
+name: eventDate
+values:
+- ['date', '1', '1st', '2', '2nd', '3', '3rd', '4', '4th', '5', '5th', '6', '6th', '7', '7th', '8', '8th', '9', '9th', '10', '10th', '11', '11th', '12', '12th', '13', '13th', '14', '14th', '15', '15th', '16', '16th', '17', '17th', '18', '18th', '19', '19th', '20', '20th', '21', '21st', '22', '22nd', '23', '23rd', '24', '24th', '25', '25th', '26', '26th', '27', '27th', '28', '28th', '29', '29th', '30', '30th', '31', '31st', '32', '32nd']
+# typeHall entity
+---
+type: entity
+name: typeHall
+values:
+- ['hall', 'venue', 'venues', 'banquet', 'banquets', 'palace', 'halls', 'place', 'places', 'conference']
+# banquet Entity
+---
+type: entity
+name: banquet
+values:
+- ['The Durbar', 'durbar', 'one eyed hall', 'one-eyed hall', 'one eye hall']
+- ['Kailash Mansarovar', 'kailash', 'sarovar', 'kailash-mansarovar', 'the garden', 'garden']
+# event entity
+---
+type: entity
+name: eventEntity
+values:
+- ['event', 'wedding', 'birthday', 'meeting', 'program', 'engagement', 'reception', 'marriage', 'events', 'programs', 'meetings', 'receptions', 'conference', 'ceremony', 'seminar']
+# offers intent
+---
+type: intent
+name: offers
+utterances:
+ - What are the offers available now?
+ - Are there any offers for booking room?
+ - How to get discount?
+ - Can i get any discount?
+ - Planning to stay in your hotel
+ - I would like to make a booking
+ - best rates and details of facilities
+ - Do you offer special rates for travel industry employers?
+ - is there any offers available right now
+ - i want to look at the offers
+ - what offers are available at the moment
+ - can i look at some offers for booking or anything
+ - are there any discounts for booking
+ - discount on room
+ - can i get any discount on booking
+ - bookig discount
+ - when will there be discounts
+# spa services intent
+---
+type: intent
+name: spaServices
+utterances:
+ - Do you have any beauty treatment?
+ - What are various massage services you offer?
+ - I want to make a spa appointment
+ # massage service
+---
+type: intent
+name: massageServices
+utterances:
+ - What is the best massage do you provide?
+ - Is it possible to have a massage in the hotel?
+ - What types of massage do you have?
+ - massage services
+# roomAvailability intent
+---
+type: intent
+name: roomAvailability
+slots:
+- name: availablemnth
+  entity: eventMonth
+- name: availabledt
+  entity: eventDate
+utterances:
+- is room available?
+- room available
+- any rooms available
+- Can I check availability for select dates?
+- are there any rooms available for tonight
+- any rooms available for tomorrow
+- room available for next week
+- how many rooms are avaialble for booking right now
+- what are my options of booking a room for this week
+- show me available rooms
+- Is there any room available?
+- check availability of room
+- Do you have any room available?
+- i need a room on [availabledt](17) [availablemnth](jan) 2019
+- is room available on [availabledt](17) [availablemnth](jan)
+#- on [date](2019-01-01) room available?
+- hi plz is available place to stay for thanks
+- i want to know availability place to stay for month
+- place to stay on [availablemnth](jan)
+- place to stay for tomorow
+- avaibility of rooms for tomorow
+- pls is avaialble place to stay on tomorow
+- rooms on tomorow
+- hey pls is avaialble room for tomorow thank you
+- i want to know availability place to stay on [availabledt](17) of [availablemnth](jan)
+- rooms for [availablemnth](jan)
+- i want to know availability place to stay on today
+- avaibility of room for month
+- hi please avaibility of place to stay for tomorow thank you
+- plz i want to know availability rooms for today thanks
+- hi please room for today thank you
+- rooms for [availablemnth](jan) thanks
+- avaibility of room on month
+- place to stay for today
+- rooms on [availablemnth](jan)
+- rooms on today
+- room for [availablemnth](jan)
+- hey please room on month
+- hey place to stay for tomorow thank you
+- place to stay for [availablemnth](jan)
+- hello plz avaibility of rooms for tomorow thank you
+- hey pls rooms for
+- i want to know availability place to stay for [availablemnth](jan)
+- hello pls is avaialble place to stay for today thanks
+- avaibility of place to stay for [availablemnth](jan)
+- hello plz place to stay on thank you
+- please rooms for [availablemnth](jan) thanks
+- room for month [availablemnth](jan)
+- room for [availablemnth](jan)
+- hello avaibility of rooms on [availablemnth](jan)
+- hello pls rooms on month [availablemnth](jan) thank you
+- room on [availablemnth](jan)
+- is avaialble room for tomorow
+- hello please place to stay for month thank you
+- hey please avaibility of room for today thank you
+- rooms for tomorow
+- room on today
+- rooms on month [availablemnth](jan)
+- rooms on month
+- plz is available place to stay for today thanks
+- plz is avaialble place to stay for month thank you
+- hello please i want to know availability room on [availablemnth](jan) thanks
+- place to stay on [availablemnth](jan)
+- is avaialble rooms on today
+- i want to know availability rooms for [availablemnth](jan)
+- i want to know availability room for today
+- hey please avaibility of room on
+- hi plz i want to know availability rooms on [availablemnth](jan)
+- hi plz is avaialble place to stay for thanks
+- i want to know availability place to stay for month
+- place to stay on [availablemnth](jan)
+- place to stay for tomorow
+- avaibility of rooms for tomorow
+- pls is avaialble place to stay on tomorow
+- rooms on tomorow
+- hey pls is avaialble room for tomorow thank you
+- i want to know availability place to stay on [availablemnth](jan)
+- rooms for [availablemnth](jan)
+- i want to know availability of rooms to stay for the month
+- please rooms on a month thanks
+- availability of rooms for [availablemnth](jan)
+- hi pls availability of rooms for today thank you
+- is it possible to stay for today
+- pls is room avaialble
+- i want to know availability place to stay on today
+- avaibility of room for month
+- hi please availability of place to stay for tomorow thank you
+- plz i want to know availability rooms for today thanks
+- hi please room for today thank you
+- rooms for [availablemnth](jan) thanks
+- i want to know about the availability of rooms 
+- avaibility of room on month
+- place to stay for today
+- rooms for today
+- any rooms available for tonight
+- rooms on [availablemnth](jan)
+- rooms on today
+- room for [availablemnth](jan)
+- hey please room on month
+- hey place to stay for tomorow thank you
+- place to stay for [availablemnth](jan)
+- hello plz avaibility of rooms for tomorow thank you
+- hey pls rooms for
+- i want to know availability place to stay for [availablemnth](jan)
+- hello pls is avaialble place to stay for today thanks
+- avaibility of place to stay for [availablemnth](jan)
+- hello plz place to stay on thank you
+- please rooms for [availablemnth](jan) thanks
+- room for month
+- hello avaibility of rooms on [availablemnth](jan)
+- hello pls rooms on month thank you
+- room on [availablemnth](jan)
+- is avaialble room for tomorow
+- hello please place to stay for month thank you
+- hey please avaibility of room for today thank you
+- rooms for tomorow
+- room on today
+- rooms on month
+- rooms on [availablemnth](jan)
+- i want to book a room for [availabledt](17) of [availablemnth](jan)
+- is room available on [availablemnth](jan)
+- book room on [availabledt](17) of [availablemnth](jan)
+- room for [availabledt](17) of [availablemnth](jan)
+- need room on [availabledt](17) of [availablemnth](jan)
+- book room for [availabledt](17) to [availabledt](17) of [availablemnth](jan)
+- plz is avaialble place to stay for today thanks
+- plz is available place to stay for month thank you
+- hello please i want to know availability room on month thanks
+- place to stay on [availablemnth](jan)
+- is avaialble rooms on today
+- i want to know availability rooms for [availablemnth](jan)
+- i want to know availability room for today
+- hey please avaibility of room on [availablemnth](jan)
+- hi plz i want to know availability rooms on [availablemnth](jan)
+# travel desk intent
+---
+type: intent
+name: travelDesk
+utterances:
+- travelDesk
+- travel desk
+- What are various travel destination you provide?
+- Dear Shankar Hotel Team I am searching a good 4 Star Hotel for my Nepal trip
+- I would like to know about travel packages?
+# tour package intent
+---
+type: intent
+name: tourPackage
+utterances:
+- I would like to have a tour of Nepal?
+- How long is the tour?
+- Do have a package for pokhara tour
+- what kinds of tour is provided by the hotel
+- what are the tour services
+- tour packages offered by the hotel
+- does the hotel provide tour facilities
+- what kinds of packages are available for tour
+- are there tour packages 
+- does the hotel give tour service
+- I need daily tour packages details
+- can i book a tour package from the hotel
+- touring from the hotel
+# trekking intent
+---
+type: intent
+name: trekking
+utterances:
+- What are various trekking destination in Nepal?
+- What trekking services do you provide?
+- does the hotel provide any kind of trekking services
+- trekking services
+- does the tour packages have trekking
+- do you offer trekking in the tour service
+- what about trekking during the tour
+- i want to know about the trekking facility in the tour package
+- trekking feature of the tour package
+- is trekking service provided by the hotel
+- is trekking included in the tour package
+# hotelHours intent
+---
+type: intent
+name: hotelHours
+utterances: 
+ - hello good afternoon when does hotel open
+ - good night when are you open
+ - hey greetings what is your opening hours
+ - good night office hours
+ - hi morning opening hours
+ - hey greetings tell me about opening hours
+ - good morning what are the reception working hours
+ - hey office hours
+ - hey greetings what are the reception working hours
+ - hello good morning what is the opening hours
+ - hi good afternoon what is the opening hours
+ - hello good morning opening hours
+ - hello what are the reception working hours
+ - hello good night what are the reception working hours
+ - hey morning what are the reception working hours
+ - hello good day opening hours
+ - hey what are the reception working hours
+ - hi good morning office hours
+ - what is your opening hours
+ - hi good day opening hours
+ - hello good afternoon what is your opening hours
+ - hello good night what is the opening hours
+ - hey good morning opening time
+ - hello morning when are you open
+ - hello morning what is the opening hours
+ - hi morning when does hotel open
+ - hey good day what are the reception working hours
+ - hello good morning office hours
+ - hi what is your opening hours
+ - hey what is the opening hours
+ - hey morning opening time
+ - good morning opening time
+ - hi tell me about opening hours
+ - hello when are you open
+ - hello greetings when does hotel open
+ - hi good morning when are you open
+ - hey good morning tell me about opening hours
+ - hey greetings office hours
+ - hey good night tell me about opening hours
+ - hi what is the opening hours
+ - hi good night what is your opening hours
+ - hi when are you open
+ - hey morning when are you open
+ - good day what is your opening hours
+ - hey greetings opening time
+ - hi good night what are the reception working hours
+ - hi good day when does hotel open
+ - hey good day opening time
+ - hey good afternoon what are the reception working hours
+ - hello good morning what are the reception working hours
+ - What are the reception working hours?
+#rooms count intent
+---
+type: intent
+name: roomsCount
+utterances:
+- How many rooms do you have?
+- What is the total number of rooms
+- number of room
+- about room count
+- how many rooms does the hotel have
+#wheelchair accessible intent
+---
+type: intent
+name: wheelchairAccessible
+
+utterances:
+- Is the hotel wheelchair accessible?
+# careers intent
+---
+type: intent
+name: careers
+utterances:
+ - i want to apply for job?
+ - Is training available for new student ?
+ - Do we have any job vaccancies here?
+ - Is there any vacancy available?
+ - Do you have vacancy
+ - tell me about opening
+ - are there any openings
+ - how can i apply
+ - are there any job openings right now
+ - i want a job at the hotel
+ - job openings
+ - how do i contact the HR 
+ - about HR department
+ - how do i apply for a job
+ - can i apply for a job at
+ - hr department 
+ - i want to contact the hr department
+ - tell me about jobs
+ - What is the HR department contact?
+ - Any job vacancy available dear mam/sir?
+ - I need job any kind of job in your hotel
+ - Do you have any vacancies
+ - Is training available for new student
+ - Any job
+ - Looking for a job
+ - How do I apply for a job
+ - Is there any job openings
+ - Is there any job vacancy
+ - may I get hr mail id
+ - I have just Completed Bachelor's of Hotel Management and I am seeking for job
+ - Hr gmail
+ - do we have any vacancy in f&b service department
+ - How may I know about the job vaccancies in Shanker
+ - Excuse me sir do u have any vaccancy for job
+ - Excuse me sir is there any vaccancy
+ - Is there vacancy for IT Support /System Administrator
+ - Dear Sir /Mam, Is there vacancy for IT Support /System Administrator?
+ - Where I can send my CV?
+ - do we have any vacancy in f&b service department
+ - How may I know about the job vaccancies in Shanker
+ - Excuse me sir do u have any vaccancy for job
+ - I am looking for job
+ - Do u have job vacancy now
+ - Excuse me sir is there any vaccancy
+ - I am seeking for job
+# feedback intent
+---
+type: intent
+name: feedback
+utterances:
+ - complain
+ - lodge complain
+ - give feedback
+ - where to complain
+ - how to complain
+ - I want to complain
+ - can I complain
+ - place to complain
+ - how to send my complain
+ - can I send my complain
+ - where to file complain
+ - how to file complain
+ - can I file complain
+ - where to lodge complain
+ - how to lodge complain
+ - I want to lodge complain
+ - how to give feedback
+ - I want to give feedback
+ - can I give feedback
+ - place to give feedback
+#latest news intent
+---
+type: intent
+name: latestNews
+
+utterances:
+- How can I get latest news and offers from your hotel?
+- Latest news
+- tell me about recent news
+- what's new
+- what are the recent news of the hotel
+- latest news on offers
+- news on new offers of the hotel
+- i want to know about recent developments
+- show me latest news
+# receptionist working hours intent
+#---
+#type: intent
+#name: receptionistWorkingHrs
+#
+#utterances:
+#- What are the reception working hours?
+# atmService intent
+---
+type: intent    
+name: atmService
+utterances:
+ - where to find atm
+ - how to find atm
+ - are there find atm
+ - is there find atm
+ - how to atm inside the premise
+ - where to atm inside hotel
+ - how to atm inside hotel
+ - can i find any atms inside the hotel premise
+ - are there atms inside the hotel
+ - how do i withdraw money
+ - are there atm services in the hotel
+ - is there atm inside hotel
+ - how to locate atm nearby
+ - is there locate atm nearby
+ - where to withdraw cash nearby
+ - how to withdraw cash nearby
+ - are there withdraw cash nearby
+ - is there withdraw cash nearby
+ - where to withdraw money
+ - how to withdraw money
+ - are there withdraw money
+ - is there withdraw money
+# businessCentre intent
+---
+type: intent    
+name: businessCentre
+utterances:
+ - business
+ - are there business center
+ - i want to know business center
+ - are there printing facility
+ - i want to know if there are any business centres in the hotel
+ - about business centre
+ - business centre locations
+ - where are the business centres
+ - where can i find the business centers
+ - what can i do in a business centre
+ - location of business centers 
+ - does the hotel have a business center
+ - Do you have a business centre?
+# menu intent
+#---
+#type: intent
+#name: hamburger
+#utterances:
+# - hamburger
+# - menu
+# - start menu
+# - start
+# - home
+# spa intent
+---
+type: intent
+name: spa
+utterances:
+ - spa
+ - Do you have any beauty treatment?
+ - What are various massage services you offer?
+ - I want to make a spa appointment
+# book intent
+---
+type: intent
+name: bookNow
+utterances:
+ - bookNow
+ - book now
+ - reservation
+# city tours intent
+---
+type: intent
+name: cityTours
+utterances:
+ - city tours
+ - i want to know about tours inside the valley
+# mountain flight intent
+---
+type: intent
+name: mountainFlight
+utterances:
+ - i want to know about the mountain flight
+ - trip to mount everest
+ - details on mountain flight
+# Pokhara Chitwan Tour intent
+---
+type: intent
+name: pokharaChitwanTour
+utterances:
+ - pokharaChitwanTour
+ - pokhara Chitwan Tour
+ - are there any pokhara tours?
+ - are there any chitwant tours?
+ - tour for pokhara and chitwan
+# Langtang Trek intent
+---
+type: intent
+name: LangtangTrek
+utterances:
+ - LangtangTrek
+ - how do i apply for the langtang trek?
+ - i have some queries about langtang trek
+# Langtang Trek Form Form intent
+---
+type: intent
+name: LangtangForm
+utterances:
+ - LangtangForm
+# Annapurna Trek intent
+---
+type: intent
+name: AnnapurnaTrek
+utterances:
+ - AnnapurnaTrek
+ - how do i apply for the annapurna trek?
+ - i have some queries about annapurna trek
+# Annapurna Trek Form intent
+---
+type: intent
+name: AnnapurnaForm
+utterances:
+ - AnnapurnaForm
+# ABC Trek intent
+---
+type: intent
+name: ABCTrek
+utterances:
+ - ABCTrek
+ - how do i apply for the annapurna base camp trek?
+# ABC Form intent
+---
+type: intent
+name: ABCForm
+utterances:
+ - ABCForm
+# Everest Trek intent
+---
+type: intent
+name: EverestTrek
+utterances:
+ - EverestTrek
+ - how do i apply for the everest base camp?
+ - i have some queries about everest
+ - everest base camp
+# Everest Form intent
+---
+type: intent
+name: EverestForm
+utterances:
+ - EverestForm
+# Kailash Hall Booking Form intent
+---
+type: intent
+name: BookKailashHall
+utterances:
+ - BookKailashHall
+ - Book Kailash Hall
+ - how do i book Kailash Hall?
+# Durbar Hall Booking Form intent
+---
+type: intent
+name: BookDurbarHall
+utterances:
+ - BookDurbarHall
+ - Book Durbar Hall
+ - how do i book Durbar Hall?
+# Customize Form intent
+---
+type: intent
+name: customize
+utterances:
+ - customize
+ - customize form
+# Kathmandu Tour intent
+---
+type: intent
+name: KathmanduHolidayTour
+utterances:
+ - KathmanduHolidayTour
+ - Kathmandu Holiday Tour
+# Kathmandu Holiday Tour intent
+---
+type: intent
+name: KathmanduForm
+utterances:
+ - KathmanduForm
+ - Kathmandu Form
+# Ktm Patan Tour intent
+---
+type: intent
+name: KtmPatanTour
+utterances:
+ - KtmPatanTour
+ - Ktm Patan Tour
+# Ktm Patan Tour intent
+---
+type: intent
+name: KtmPatanForm
+utterances:
+ - KtmPatanForm
+ - ktm Patan Form
+# Chitwan Tour intent
+---
+type: intent
+name: ChitwanTour
+utterances:
+ - ChitwanTour
+ - Chitwan Tour
+# Chitwan Form intent
+---
+type: intent
+name: ChitwanForm
+utterances:
+ - ChitwanForm
+ - Chitwan Form
+# Pokhara Tour intent
+---
+type: intent
+name: PokharaTour
+utterances:
+ - PokharaTour
+ - Pokhara Tour
+# Pokhara Form intent
+---
+type: intent
+name: PokharaForm
+utterances:
+ - PokharaForm
+ - Pokhara Form
+# Pkr Chitwan Tour intent
+---
+type: intent
+name: PkrChitwanTour
+utterances:
+ - PkrChitwanTour
+ - Pkr Chitwan Tour
+# Pkr Chitwan Tour Form intent
+---
+type: intent
+name: PkrChitwanForm
+utterances:
+ - PkrChitwanForm
+ - Pkr Chitwan Form
+# Mt Flight intent
+---
+type: intent
+name: MtFlight
+utterances:
+ - MtFlight
+# Mt Flight Form intent
+---
+type: intent
+name: MtForm
+utterances:
+ - MtForm
